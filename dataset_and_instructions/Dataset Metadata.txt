@@ -1,0 +1,44 @@
+The dataset represents the results of patients from the HCHD study. The dataset includes 14 features as follows:
+1. age: age in years
+2. sex: sex (1 = male; 0 = female)
+3. cp: chest pain type
+-- Value 1: typical angina
+-- Value 2: atypical angina
+-- Value 3: non-anginal pain
+-- Value 4: asymptomatic
+4. trestbps: resting blood pressure (in mm Hg on admission to the hospital)
+5. chol: serum cholestoral in mg/dl
+6. fbs: (fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)
+7. restecg: resting electrocardiographic results
+-- Value 0: normal
+-- Value 1: having ST-T (Stress test) wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
+-- Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria
+8. thalach: maximum heart rate achieved
+9. exang: exercise induced angina (1 = yes; 0 = no)
+10. oldpeak = ST depression induced by exercise relative to rest
+11. slope: the slope of the peak exercise ST segment
+-- Value 1: upsloping
+-- Value 2: flat
+-- Value 3: downsloping
+12. ca: number of major vessels (0-3) colored by flourosopy
+13. thal: thalassemia, 3 = normal; 6 = fixed defect; 7 = reversable defect
+14. Outcome: diagnosis of heart disease (number of vassels affected)
+-- Value 0: absent
+-- Value 1: present (one major vassel)
+-- Value 2: present (two major vassels)
+-- Value 3: present (three major vassels)
+-- Value 4: present (four major vassels)
+
+Useful Links:
+
+https://www.nhs.uk/conditions/coronary-heart-disease/
+
+https://www.nhs.uk/conditions/angina/
+
+https://www.medicalnewstoday.com/articles/323497#causes (Exercise induced angina)
+
+https://www.ncbi.nlm.nih.gov/books/NBK367910/ (ECG)
+
+https://en.wikipedia.org/wiki/ST_segment (ST segment, T-Wave)
+
+https://www.heart.org/en/health-topics/heart-valve-problems-and-disease/heart-valve-problems-and-causes/what-is-left-ventricular-hypertrophy-lvh (left ventricular hypertrophy)
