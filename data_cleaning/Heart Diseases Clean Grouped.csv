@@ -1,0 +1,304 @@
+ID,age,sex,cp,restbps,chol,fbs,restecg,thalack,exang,oldpeak,slope,ca,thal,outcome
+hdoamedhe7le8psut,63.0,Male,Typical Angina,145,233,1,Abnormal,150,0,2.3,Downsloping,0,6,No Heart Disease
+hdoamedhodc3upsut,67.0,Male,Asymptomatic,160,286,0,Abnormal,108,1,1.5,Flat,3,3,Heart Disease
+hdoamedds1byapsut,67.0,Male,Asymptomatic,120,229,0,Abnormal,129,1,2.6,Flat,2,7,Heart Disease
+hdoamed03ldb7psut,37.0,Male,Non-anginal Pain,130,250,0,Normal,187,0,3.5,Downsloping,0,3,No Heart Disease
+hdoamedkixctypsut,41.0,Female,Atypical Angina,130,204,0,Abnormal,172,0,1.4,Upsloping,0,3,No Heart Disease
+hdoamedv35fuvpsut,56.0,Male,Atypical Angina,120,236,0,Normal,178,0,0.8,Upsloping,0,3,No Heart Disease
+hdoamed295p0dpsut,62.0,Female,Asymptomatic,140,268,0,Abnormal,160,0,3.6,Downsloping,2,3,Heart Disease
+hdoamedr51tflpsut,57.0,Female,Asymptomatic,120,354,0,Normal,163,1,0.6,Upsloping,0,3,No Heart Disease
+hdoamedmloe9epsut,63.0,Male,Asymptomatic,130,254,0,Abnormal,147,0,1.4,Flat,1,7,Heart Disease
+hdoamedz87ilnpsut,53.0,Male,Asymptomatic,140,203,1,Abnormal,155,1,3.1,Downsloping,0,7,Heart Disease
+hdoamedhy94tgpsut,57.0,Male,Asymptomatic,140,192,0,Normal,148,0,0.4,Flat,0,6,No Heart Disease
+hdoamediwgjt0psut,56.0,Female,Atypical Angina,140,294,0,Abnormal,153,0,1.3,Flat,0,3,No Heart Disease
+hdoamedeof5o4psut,56.0,Male,Non-anginal Pain,130,256,1,Abnormal,142,1,0.6,Flat,1,6,Heart Disease
+hdoamed3mamcfpsut,44.0,Male,Atypical Angina,120,263,0,Normal,173,0,0.0,Upsloping,0,7,No Heart Disease
+hdoamedxfnivtpsut,52.0,Male,Non-anginal Pain,172,199,1,Normal,162,0,0.5,Upsloping,0,7,No Heart Disease
+hdoamed9o5zx5psut,57.0,Male,Non-anginal Pain,150,168,0,Normal,174,0,1.6,Upsloping,0,3,No Heart Disease
+hdoamedhr6x4kpsut,48.0,Male,Atypical Angina,110,229,0,Normal,168,0,1.0,Downsloping,0,7,Heart Disease
+hdoamedg12p36psut,54.0,Male,Asymptomatic,140,239,0,Normal,160,0,1.2,Upsloping,0,3,No Heart Disease
+hdoamedc5rxxwpsut,48.0,Female,Non-anginal Pain,130,275,0,Normal,139,0,0.2,Upsloping,0,3,No Heart Disease
+hdoamed0gkpajpsut,49.0,Male,Atypical Angina,130,266,0,Normal,171,0,0.6,Upsloping,0,3,No Heart Disease
+hdoamedjuwytapsut,64.0,Male,Typical Angina,110,211,0,Abnormal,144,1,1.8,Flat,0,3,No Heart Disease
+hdoamedkf4st8psut,58.0,Female,Typical Angina,150,283,1,Abnormal,162,0,1.0,Upsloping,0,3,No Heart Disease
+hdoamedrv42qzpsut,58.0,Male,Atypical Angina,120,284,0,Abnormal,160,0,1.8,Flat,0,3,Heart Disease
+hdoamedhh06eypsut,58.0,Male,Non-anginal Pain,132,224,0,Abnormal,173,0,3.2,Upsloping,2,7,Heart Disease
+hdoamedbxeq8qpsut,60.0,Male,Asymptomatic,130,206,0,Abnormal,132,1,2.4,Flat,2,7,Heart Disease
+hdoamedyu6vbzpsut,50.0,Female,Non-anginal Pain,120,219,0,Normal,158,0,1.6,Flat,0,3,No Heart Disease
+hdoamed7b8gs2psut,58.0,Female,Non-anginal Pain,120,340,0,Normal,172,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed78fvscpsut,66.0,Female,Typical Angina,150,226,0,Normal,114,0,2.6,Downsloping,0,3,No Heart Disease
+hdoamedd04ingpsut,43.0,Male,Asymptomatic,150,247,0,Normal,171,0,1.5,Upsloping,0,3,No Heart Disease
+hdoamed2zzy1rpsut,40.0,Male,Asymptomatic,110,167,0,Abnormal,114,1,2.0,Flat,0,7,Heart Disease
+hdoamedw1cvu5psut,69.0,Female,Typical Angina,140,239,0,Normal,151,0,1.8,Upsloping,2,3,No Heart Disease
+hdoamedy0ucwhpsut,60.0,Male,Asymptomatic,117,230,1,Normal,160,1,1.4,Upsloping,2,7,Heart Disease
+hdoamedg3v93wpsut,64.0,Male,Non-anginal Pain,140,335,0,Normal,158,0,0.0,Upsloping,0,3,Heart Disease
+hdoamed6d11sspsut,59.0,Male,Asymptomatic,135,234,0,Normal,161,0,0.5,Flat,0,7,No Heart Disease
+hdoamedbhq9n8psut,44.0,Male,Non-anginal Pain,130,233,0,Normal,179,1,0.4,Upsloping,0,3,No Heart Disease
+hdoamedp1a20wpsut,42.0,Male,Asymptomatic,140,226,0,Normal,178,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed86mbimpsut,43.0,Male,Asymptomatic,120,177,0,Abnormal,120,1,2.5,Flat,0,7,Heart Disease
+hdoamedjs34jkpsut,57.0,Male,Asymptomatic,150,276,0,Abnormal,112,1,0.6,Flat,1,6,Heart Disease
+hdoamedq7uepbpsut,55.0,Male,Asymptomatic,132,353,0,Normal,132,1,1.2,Flat,1,7,Heart Disease
+hdoamedgtzrdapsut,61.0,Male,Non-anginal Pain,150,243,1,Normal,137,1,1.0,Flat,0,3,No Heart Disease
+hdoameda9d2x2psut,65.0,Female,Asymptomatic,150,225,0,Abnormal,114,0,1.0,Flat,3,7,Heart Disease
+hdoamedn6w7acpsut,40.0,Male,Typical Angina,140,199,0,Normal,178,1,1.4,Upsloping,0,7,No Heart Disease
+hdoamed6n7shepsut,71.0,Female,Atypical Angina,160,302,0,Normal,162,0,0.4,Upsloping,2,3,No Heart Disease
+hdoamed7le8hopsut,59.0,Male,Non-anginal Pain,150,212,1,Normal,157,0,1.6,Upsloping,0,3,No Heart Disease
+hdoameddc3udspsut,61.0,Female,Asymptomatic,130,330,0,Abnormal,169,0,0.0,Upsloping,0,3,Heart Disease
+hdoamed1bya03psut,58.0,Male,Non-anginal Pain,112,230,0,Abnormal,165,0,2.5,Flat,1,7,Heart Disease
+hdoamedldb7kipsut,51.0,Male,Non-anginal Pain,110,175,0,Normal,123,0,0.6,Upsloping,0,3,No Heart Disease
+hdoamedxctyv3psut,50.0,Male,Asymptomatic,150,243,0,Abnormal,128,0,2.6,Flat,0,7,Heart Disease
+hdoamed5fuv29psut,65.0,Female,Non-anginal Pain,140,417,1,Abnormal,157,0,0.8,Upsloping,1,3,No Heart Disease
+hdoamed5p0dr5psut,53.0,Male,Non-anginal Pain,130,197,1,Abnormal,152,0,1.2,Downsloping,0,3,No Heart Disease
+hdoamed1tflmlpsut,41.0,Female,Atypical Angina,105,198,0,Normal,168,0,0.0,Upsloping,1,3,No Heart Disease
+hdoamedoe9ez8psut,65.0,Male,Asymptomatic,120,177,0,Normal,140,0,0.4,Upsloping,0,7,No Heart Disease
+hdoamed7ilnhypsut,44.0,Male,Asymptomatic,112,290,0,Abnormal,153,0,0.0,Upsloping,1,3,Heart Disease
+hdoamed94tgiwpsut,44.0,Male,Atypical Angina,130,219,0,Abnormal,188,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedgjt0eopsut,60.0,Male,Asymptomatic,130,253,0,Normal,144,1,1.4,Upsloping,1,7,Heart Disease
+hdoamedf5o43mpsut,54.0,Male,Asymptomatic,124,266,0,Abnormal,109,1,2.2,Flat,1,7,Heart Disease
+hdoamedamcfxfpsut,50.0,Male,Non-anginal Pain,140,233,0,Normal,163,0,0.6,Flat,1,7,Heart Disease
+hdoamednivt9opsut,41.0,Male,Asymptomatic,110,172,0,Abnormal,158,0,0.0,Upsloping,0,7,Heart Disease
+hdoamed5zx5hrpsut,54.0,Male,Non-anginal Pain,125,273,0,Abnormal,152,0,0.5,Downsloping,1,3,No Heart Disease
+hdoamed6x4kg1psut,51.0,Male,Typical Angina,125,213,0,Abnormal,125,1,1.4,Upsloping,1,3,No Heart Disease
+hdoamed2p36c5psut,51.0,Female,Asymptomatic,130,305,0,Normal,142,1,1.2,Flat,0,7,Heart Disease
+hdoamedrxxw0gpsut,46.0,Female,Non-anginal Pain,142,177,0,Abnormal,160,1,1.4,Downsloping,0,3,No Heart Disease
+hdoamedkpajjupsut,58.0,Male,Asymptomatic,128,216,0,Abnormal,131,1,2.2,Flat,3,7,Heart Disease
+hdoamedwytakfpsut,54.0,Female,Non-anginal Pain,135,304,1,Normal,170,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed4st8rvpsut,54.0,Male,Asymptomatic,120,188,0,Normal,113,0,1.4,Flat,1,7,Heart Disease
+hdoamed42qzhhpsut,60.0,Male,Asymptomatic,145,282,0,Abnormal,142,1,2.8,Flat,2,7,Heart Disease
+hdoamed06eybxpsut,60.0,Male,Non-anginal Pain,140,185,0,Abnormal,155,0,3.0,Flat,0,3,Heart Disease
+hdoamedeq8qyupsut,54.0,Male,Non-anginal Pain,150,232,0,Abnormal,165,0,1.6,Upsloping,0,7,No Heart Disease
+hdoamed6vbz7bpsut,59.0,Male,Asymptomatic,170,326,0,Abnormal,140,1,3.4,Downsloping,0,7,Heart Disease
+hdoamed8gs278psut,46.0,Male,Non-anginal Pain,150,231,0,Normal,147,0,3.6,Flat,0,3,Heart Disease
+hdoamedfvscd0psut,65.0,Female,Non-anginal Pain,155,269,0,Normal,148,0,0.8,Upsloping,0,3,No Heart Disease
+hdoamed4ing2zpsut,67.0,Male,Asymptomatic,125,254,1,Normal,163,0,0.2,Flat,2,7,Heart Disease
+hdoamedzy1rw1psut,62.0,Male,Asymptomatic,120,267,0,Normal,99,1,1.8,Flat,2,7,Heart Disease
+hdoamedcvu5y0psut,65.0,Male,Asymptomatic,110,248,0,Abnormal,158,0,0.6,Upsloping,2,6,Heart Disease
+hdoameducwhg3psut,44.0,Male,Asymptomatic,110,197,0,Abnormal,177,0,0.0,Upsloping,1,3,Heart Disease
+hdoamedv93w6dpsut,65.0,Female,Non-anginal Pain,160,360,0,Abnormal,151,0,0.8,Upsloping,0,3,No Heart Disease
+hdoamed11ssbhpsut,60.0,Male,Asymptomatic,125,258,0,Abnormal,141,1,2.8,Flat,1,7,Heart Disease
+hdoamedq9n8p1psut,51.0,Female,Non-anginal Pain,140,308,0,Abnormal,142,0,1.5,Upsloping,1,3,No Heart Disease
+hdoameda20w86psut,48.0,Male,Atypical Angina,130,245,0,Abnormal,180,0,0.2,Flat,0,3,No Heart Disease
+hdoamedmbimjspsut,58.0,Male,Asymptomatic,150,270,0,Abnormal,111,1,0.8,Upsloping,0,7,Heart Disease
+hdoamed34jkq7psut,45.0,Male,Asymptomatic,104,208,0,Abnormal,148,1,3.0,Flat,0,3,No Heart Disease
+hdoameduepbgtpsut,53.0,Female,Asymptomatic,130,264,0,Abnormal,143,0,0.4,Flat,0,3,No Heart Disease
+hdoamedzrdaa9psut,39.0,Male,Non-anginal Pain,140,321,0,Abnormal,182,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedd2x2n6psut,68.0,Male,Non-anginal Pain,180,274,1,Abnormal,150,1,1.6,Flat,0,7,Heart Disease
+hdoamedw7ac6npsut,52.0,Male,Atypical Angina,120,325,0,Normal,172,0,0.2,Upsloping,0,3,No Heart Disease
+hdoamed7she7lpsut,44.0,Male,Non-anginal Pain,140,235,0,Abnormal,180,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamede8hodcpsut,47.0,Male,Non-anginal Pain,138,257,0,Abnormal,156,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed3uds1bpsut,53.0,Female,Non-anginal Pain,128,216,0,Abnormal,115,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedya03ldpsut,53.0,Female,Asymptomatic,138,234,0,Abnormal,160,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedb7kixcpsut,51.0,Female,Non-anginal Pain,130,256,0,Abnormal,149,0,0.5,Upsloping,0,3,No Heart Disease
+hdoamedtyv35fpsut,66.0,Male,Asymptomatic,120,302,0,Abnormal,151,0,0.4,Flat,0,3,No Heart Disease
+hdoameduv295ppsut,62.0,Female,Asymptomatic,160,164,0,Abnormal,145,0,6.2,Downsloping,3,7,Heart Disease
+hdoamed0dr51tpsut,62.0,Male,Non-anginal Pain,130,231,0,Normal,146,0,1.8,Flat,3,7,No Heart Disease
+hdoamedflmloepsut,44.0,Female,Non-anginal Pain,108,141,0,Normal,175,0,0.6,Flat,0,3,No Heart Disease
+hdoamed9ez87ipsut,63.0,Female,Non-anginal Pain,135,252,0,Abnormal,172,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedlnhy94psut,52.0,Male,Asymptomatic,128,255,0,Normal,161,1,0.0,Upsloping,1,7,Heart Disease
+hdoamedtgiwgjpsut,59.0,Male,Asymptomatic,110,239,0,Abnormal,142,1,1.2,Flat,1,7,Heart Disease
+hdoamedt0eof5psut,60.0,Female,Asymptomatic,150,258,0,Abnormal,157,0,2.6,Flat,2,7,Heart Disease
+hdoamedo43mampsut,52.0,Male,Atypical Angina,134,201,0,Normal,158,0,0.8,Upsloping,1,3,No Heart Disease
+hdoamedcfxfnipsut,48.0,Male,Asymptomatic,122,222,0,Abnormal,186,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedvt9o5zpsut,45.0,Male,Asymptomatic,115,260,0,Abnormal,185,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedx5hr6xpsut,34.0,Male,Typical Angina,118,182,0,Abnormal,174,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed4kg12ppsut,57.0,Female,Asymptomatic,128,303,0,Abnormal,159,0,0.0,Upsloping,1,3,No Heart Disease
+hdoamed36c5rxpsut,71.0,Female,Non-anginal Pain,110,265,1,Abnormal,130,0,0.0,Upsloping,1,3,No Heart Disease
+hdoamedxw0gkppsut,49.0,Male,Non-anginal Pain,120,188,0,Normal,139,0,2.0,Flat,3,7,Heart Disease
+hdoamedajjuwypsut,54.0,Male,Atypical Angina,108,309,0,Normal,156,0,0.0,Upsloping,0,7,No Heart Disease
+hdoamedtakf4spsut,59.0,Male,Asymptomatic,140,177,0,Normal,162,1,0.0,Upsloping,1,7,Heart Disease
+hdoamedt8rv42psut,57.0,Male,Non-anginal Pain,128,229,0,Abnormal,150,0,0.4,Flat,1,7,Heart Disease
+hdoamedqzhh06psut,61.0,Male,Asymptomatic,120,260,0,Normal,140,1,3.6,Flat,1,7,Heart Disease
+hdoamedeybxeqpsut,39.0,Male,Asymptomatic,118,219,0,Normal,140,0,1.2,Flat,0,7,Heart Disease
+hdoamed8qyu6vpsut,61.0,Female,Asymptomatic,145,307,0,Abnormal,146,1,1.0,Flat,0,7,Heart Disease
+hdoamedbz7b8gpsut,56.0,Male,Asymptomatic,125,249,1,Abnormal,144,1,1.2,Flat,1,3,Heart Disease
+hdoameds278fvpsut,52.0,Male,Typical Angina,118,186,0,Abnormal,190,0,0.0,Flat,0,6,No Heart Disease
+hdoamedscd04ipsut,43.0,Female,Asymptomatic,132,341,1,Abnormal,136,1,3.0,Flat,0,7,Heart Disease
+hdoamedng2zzypsut,62.0,Female,Non-anginal Pain,130,263,0,Normal,97,0,1.2,Flat,1,7,Heart Disease
+hdoamed1rw1cvpsut,41.0,Male,Atypical Angina,135,203,0,Normal,132,0,0.0,Flat,0,6,No Heart Disease
+hdoamedu5y0ucpsut,58.0,Male,Non-anginal Pain,140,211,1,Abnormal,165,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedwhg3v9psut,35.0,Female,Asymptomatic,138,183,0,Normal,182,0,1.4,Upsloping,0,3,No Heart Disease
+hdoamed3w6d11psut,63.0,Male,Asymptomatic,130,330,1,Abnormal,132,1,1.8,Upsloping,3,7,Heart Disease
+hdoamedssbhq9psut,65.0,Male,Asymptomatic,135,254,0,Abnormal,127,0,2.8,Flat,1,7,Heart Disease
+hdoamedn8p1a2psut,48.0,Male,Asymptomatic,130,256,1,Abnormal,150,1,0.0,Upsloping,2,7,Heart Disease
+hdoamed0w86mbpsut,63.0,Female,Asymptomatic,150,407,0,Abnormal,154,0,4.0,Flat,3,7,Heart Disease
+hdoamedimjs34psut,51.0,Male,Non-anginal Pain,100,222,0,Normal,143,1,1.2,Flat,0,3,No Heart Disease
+hdoamedjkq7uepsut,55.0,Male,Asymptomatic,140,217,0,Normal,111,1,5.6,Downsloping,0,7,Heart Disease
+hdoamedpbgtzrpsut,65.0,Male,Typical Angina,138,282,1,Abnormal,174,0,1.4,Flat,1,3,Heart Disease
+hdoameddaa9d2psut,45.0,Female,Atypical Angina,130,234,0,Abnormal,175,0,0.6,Flat,0,3,No Heart Disease
+hdoamedx2n6w7psut,56.0,Female,Asymptomatic,200,288,1,Abnormal,133,1,4.0,Downsloping,2,7,Heart Disease
+hdoamedac6n7spsut,54.0,Male,Asymptomatic,110,239,0,Normal,126,1,2.8,Flat,1,7,Heart Disease
+hdoamed7ljcmtpsut,44.0,Male,Atypical Angina,120,220,0,Normal,170,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedhh8zhxpsut,62.0,Female,Asymptomatic,124,209,0,Normal,163,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed6f3f58psut,54.0,Male,Non-anginal Pain,120,258,0,Abnormal,147,0,0.4,Flat,0,7,No Heart Disease
+hdoamedqhgbompsut,51.0,Male,Non-anginal Pain,94,227,0,Normal,154,1,0.0,Upsloping,1,7,No Heart Disease
+hdoamed2hy2z7psut,29.0,Male,Atypical Angina,130,204,0,Abnormal,202,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedakz06dpsut,51.0,Male,Asymptomatic,140,261,0,Abnormal,186,1,0.0,Upsloping,0,3,No Heart Disease
+hdoamedau5iw9psut,43.0,Female,Non-anginal Pain,122,213,0,Normal,165,0,0.2,Flat,0,3,No Heart Disease
+hdoamed5ykqqppsut,55.0,Female,Atypical Angina,135,250,0,Abnormal,161,0,1.4,Flat,0,3,No Heart Disease
+hdoamedtidi3cpsut,70.0,Male,Asymptomatic,145,174,0,Normal,125,1,2.6,Downsloping,0,7,Heart Disease
+hdoamedcnqrm3psut,62.0,Male,Atypical Angina,120,281,0,Abnormal,103,0,1.4,Flat,1,7,Heart Disease
+hdoamede8xlm1psut,35.0,Male,Asymptomatic,120,198,0,Normal,130,1,1.6,Flat,0,7,Heart Disease
+hdoamedkox4jspsut,51.0,Male,Non-anginal Pain,125,245,1,Abnormal,166,0,2.4,Flat,0,3,No Heart Disease
+hdoamedjat87rpsut,59.0,Male,Atypical Angina,140,221,0,Normal,164,1,0.0,Upsloping,0,3,No Heart Disease
+hdoamedeqgj1jpsut,59.0,Male,Typical Angina,170,288,0,Abnormal,159,0,0.2,Flat,0,7,Heart Disease
+hdoamedrn0xdspsut,52.0,Male,Atypical Angina,128,205,1,Normal,184,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed9419lvpsut,64.0,Male,Non-anginal Pain,125,309,0,Normal,131,1,1.8,Flat,0,7,Heart Disease
+hdoameda28pl5psut,58.0,Male,Non-anginal Pain,105,240,0,Abnormal,154,1,0.6,Flat,0,7,No Heart Disease
+hdoamed7t7bg9psut,47.0,Male,Non-anginal Pain,108,243,0,Normal,152,0,0.0,Upsloping,0,3,Heart Disease
+hdoamedv1214kpsut,57.0,Male,Asymptomatic,165,289,1,Abnormal,124,0,1.0,Flat,3,7,Heart Disease
+hdoamedpufonypsut,41.0,Male,Non-anginal Pain,112,250,0,Normal,179,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed13xepkpsut,45.0,Male,Atypical Angina,128,308,0,Abnormal,170,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed9wycwzpsut,60.0,Female,Non-anginal Pain,102,318,0,Normal,160,0,0.0,Upsloping,1,3,No Heart Disease
+hdoamed96u4llpsut,52.0,Male,Typical Angina,152,298,1,Normal,178,0,1.2,Flat,0,7,No Heart Disease
+hdoamed4aj2g1psut,42.0,Female,Asymptomatic,102,265,0,Abnormal,122,0,0.6,Flat,0,3,No Heart Disease
+hdoamedivcv2ypsut,67.0,Female,Non-anginal Pain,115,564,0,Abnormal,160,0,1.6,Flat,0,7,No Heart Disease
+hdoamedbzf4bfpsut,55.0,Male,Asymptomatic,160,289,0,Abnormal,145,1,0.8,Flat,1,7,Heart Disease
+hdoameddlw7cdpsut,64.0,Male,Asymptomatic,120,246,0,Abnormal,96,1,2.2,Downsloping,1,3,Heart Disease
+hdoamedk0whi5psut,70.0,Male,Asymptomatic,130,322,0,Abnormal,109,0,2.4,Flat,3,3,Heart Disease
+hdoamed9msl63psut,51.0,Male,Asymptomatic,140,299,0,Normal,173,1,1.6,Upsloping,0,7,Heart Disease
+hdoamed426v05psut,58.0,Male,Asymptomatic,125,300,0,Abnormal,171,0,0.0,Upsloping,2,7,Heart Disease
+hdoamedhzza35psut,60.0,Male,Asymptomatic,140,293,0,Abnormal,170,0,1.2,Flat,2,7,Heart Disease
+hdoamedzg0mk8psut,68.0,Male,Non-anginal Pain,118,277,0,Normal,151,0,1.0,Upsloping,1,7,No Heart Disease
+hdoamed0e71aipsut,46.0,Male,Atypical Angina,101,197,1,Normal,156,0,0.0,Upsloping,0,7,No Heart Disease
+hdoamed65xxglpsut,77.0,Male,Asymptomatic,125,304,0,Abnormal,162,1,0.0,Upsloping,3,3,Heart Disease
+hdoameduerdu6psut,54.0,Female,Non-anginal Pain,110,214,0,Normal,158,0,1.6,Flat,0,3,No Heart Disease
+hdoamede640dbpsut,58.0,Female,Asymptomatic,100,248,0,Abnormal,122,0,1.0,Flat,0,3,No Heart Disease
+hdoamedqfnrowpsut,48.0,Male,Non-anginal Pain,124,255,1,Normal,175,0,0.0,Upsloping,2,3,No Heart Disease
+hdoamed89novbpsut,57.0,Male,Asymptomatic,132,207,0,Normal,168,1,0.0,Upsloping,0,7,No Heart Disease
+hdoamedyjtgkypsut,52.0,Male,Non-anginal Pain,138,223,0,Normal,169,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed3wiffepsut,54.0,Female,Atypical Angina,132,288,1,Abnormal,159,1,0.0,Upsloping,1,3,No Heart Disease
+hdoamedh727sbpsut,35.0,Male,Asymptomatic,126,282,0,Abnormal,156,1,0.0,Upsloping,0,7,Heart Disease
+hdoamed0cegaspsut,45.0,Female,Atypical Angina,112,160,0,Normal,138,0,0.0,Flat,0,3,No Heart Disease
+hdoamedcxmjbppsut,70.0,Male,Non-anginal Pain,160,269,0,Normal,112,1,2.9,Flat,1,7,Heart Disease
+hdoamedjcmthhpsut,53.0,Male,Asymptomatic,142,226,0,Abnormal,111,1,0.0,Upsloping,0,7,No Heart Disease
+hdoamed8zhx6fpsut,59.0,Female,Asymptomatic,174,249,0,Normal,143,1,0.0,Flat,0,3,Heart Disease
+hdoamed3f58qhpsut,62.0,Female,Asymptomatic,140,394,0,Abnormal,157,0,1.2,Flat,0,3,No Heart Disease
+hdoamedgbom2hpsut,64.0,Male,Asymptomatic,145,212,0,Abnormal,132,0,2.0,Flat,2,6,Heart Disease
+hdoamedy2z7akpsut,57.0,Male,Asymptomatic,152,274,0,Normal,88,1,1.2,Flat,1,7,Heart Disease
+hdoamedz06daupsut,52.0,Male,Asymptomatic,108,233,1,Normal,147,0,0.1,Upsloping,3,7,No Heart Disease
+hdoamed5iw95ypsut,56.0,Male,Asymptomatic,132,184,0,Abnormal,105,1,2.1,Flat,1,6,Heart Disease
+hdoamedkqqptipsut,43.0,Male,Non-anginal Pain,130,315,0,Normal,162,0,1.9,Upsloping,1,3,No Heart Disease
+hdoameddi3ccnpsut,53.0,Male,Non-anginal Pain,130,246,1,Abnormal,173,0,0.0,Upsloping,3,3,No Heart Disease
+hdoamedqrm3e8psut,48.0,Male,Asymptomatic,124,274,0,Abnormal,166,0,0.5,Flat,0,7,Heart Disease
+hdoamedxlm1kopsut,56.0,Female,Asymptomatic,134,409,0,Abnormal,150,1,1.9,Flat,2,7,Heart Disease
+hdoamedx4jsjapsut,42.0,Male,Typical Angina,148,244,0,Abnormal,178,0,0.8,Upsloping,2,3,No Heart Disease
+hdoamedt87reqpsut,59.0,Male,Typical Angina,178,270,0,Abnormal,145,0,4.2,Downsloping,0,7,No Heart Disease
+hdoamedgj1jrnpsut,60.0,Female,Asymptomatic,158,305,0,Abnormal,161,0,0.0,Upsloping,0,3,Heart Disease
+hdoamed0xds94psut,63.0,Female,Atypical Angina,140,195,0,Normal,179,0,0.0,Upsloping,2,3,No Heart Disease
+hdoamed19lva2psut,42.0,Male,Non-anginal Pain,120,240,1,Normal,194,0,0.8,Downsloping,0,7,No Heart Disease
+hdoamed8pl57tpsut,66.0,Male,Atypical Angina,160,246,0,Normal,120,1,0.0,Flat,3,6,Heart Disease
+hdoamed7bg9v1psut,54.0,Male,Atypical Angina,192,283,0,Abnormal,195,0,0.0,Upsloping,1,7,Heart Disease
+hdoamed214kpupsut,69.0,Male,Non-anginal Pain,140,254,0,Abnormal,146,0,2.0,Flat,3,7,Heart Disease
+hdoamedfony13psut,50.0,Male,Non-anginal Pain,129,196,0,Normal,163,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedxepk9wpsut,51.0,Male,Asymptomatic,140,298,0,Normal,122,1,4.2,Flat,3,7,Heart Disease
+hdoamedycwz96psut,43.0,Male,Asymptomatic,132,247,1,Abnormal,143,1,0.1,Flat,0,7,Heart Disease
+hdoamedu4ll4apsut,62.0,Female,Asymptomatic,138,294,1,Normal,106,0,1.9,Flat,3,3,Heart Disease
+hdoamedj2g1ivpsut,68.0,Female,Non-anginal Pain,120,211,0,Abnormal,115,0,1.5,Flat,0,3,No Heart Disease
+hdoamedcv2ybzpsut,67.0,Male,Asymptomatic,100,299,0,Abnormal,125,1,0.9,Flat,2,3,Heart Disease
+hdoamedf4bfdlpsut,69.0,Male,Typical Angina,160,234,1,Abnormal,131,0,0.1,Flat,1,3,No Heart Disease
+hdoamedw7cdk0psut,45.0,Female,Asymptomatic,138,236,0,Abnormal,152,1,0.2,Flat,0,3,No Heart Disease
+hdoamedwhi59mpsut,50.0,Female,Atypical Angina,120,244,0,Normal,162,0,1.1,Upsloping,0,3,No Heart Disease
+hdoamedsl6342psut,59.0,Male,Typical Angina,160,273,0,Abnormal,125,0,0.0,Upsloping,0,3,Heart Disease
+hdoamed6v05hzpsut,50.0,Female,Asymptomatic,110,254,0,Abnormal,159,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedza35zgpsut,64.0,Female,Asymptomatic,180,325,0,Normal,154,1,0.0,Upsloping,0,3,No Heart Disease
+hdoamed0mk80epsut,57.0,Male,Non-anginal Pain,150,126,1,Normal,173,0,0.2,Upsloping,1,7,No Heart Disease
+hdoamed71ai65psut,64.0,Female,Non-anginal Pain,140,313,0,Normal,133,0,0.2,Upsloping,0,7,No Heart Disease
+hdoamedxxgluepsut,43.0,Male,Asymptomatic,110,211,0,Normal,161,0,0.0,Upsloping,0,7,No Heart Disease
+hdoamedrdu6e6psut,45.0,Male,Asymptomatic,142,309,0,Abnormal,147,1,0.0,Flat,3,7,Heart Disease
+hdoamed40dbqfpsut,58.0,Male,Asymptomatic,128,259,0,Abnormal,130,1,3.0,Flat,2,7,Heart Disease
+hdoamednrow89psut,50.0,Male,Asymptomatic,144,200,0,Abnormal,126,1,0.9,Flat,0,7,Heart Disease
+hdoamednovbyjpsut,55.0,Male,Atypical Angina,130,262,0,Normal,155,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedtgky3wpsut,62.0,Female,Asymptomatic,150,244,0,Normal,154,1,1.4,Flat,0,3,Heart Disease
+hdoamediffeh7psut,37.0,Female,Non-anginal Pain,120,215,0,Normal,170,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed27sb0cpsut,38.0,Male,Typical Angina,120,231,0,Normal,182,1,3.8,Flat,0,7,Heart Disease
+hdoamedegascxpsut,41.0,Male,Non-anginal Pain,130,214,0,Abnormal,168,0,2.0,Flat,0,3,No Heart Disease
+hdoamedmjbpjcpsut,66.0,Female,Asymptomatic,178,228,1,Normal,165,1,1.0,Flat,2,7,Heart Disease
+hdoamedmthh8zpsut,52.0,Male,Asymptomatic,112,230,0,Normal,160,0,0.0,Upsloping,1,3,Heart Disease
+hdoamedhx6f3fpsut,56.0,Male,Typical Angina,120,193,0,Abnormal,162,0,1.9,Flat,0,7,No Heart Disease
+hdoamed58qhgbpsut,46.0,Female,Atypical Angina,105,204,0,Normal,172,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedom2hy2psut,46.0,Female,Asymptomatic,138,243,0,Abnormal,152,1,0.0,Flat,0,3,No Heart Disease
+hdoamedz7akz0psut,64.0,Female,Asymptomatic,130,303,0,Normal,122,0,2.0,Flat,2,3,No Heart Disease
+hdoamed6dau5ipsut,59.0,Male,Asymptomatic,138,271,0,Abnormal,182,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedw95ykqpsut,41.0,Female,Non-anginal Pain,112,268,0,Abnormal,172,1,0.0,Upsloping,0,3,No Heart Disease
+hdoamedqptidipsut,54.0,Female,Non-anginal Pain,108,267,0,Abnormal,167,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed3ccnqrpsut,39.0,Female,Non-anginal Pain,94,199,0,Normal,179,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedm3e8xlpsut,53.0,Male,Asymptomatic,123,282,0,Normal,95,1,2.0,Flat,2,7,Heart Disease
+hdoamedm1kox4psut,63.0,Female,Asymptomatic,108,269,0,Normal,169,1,1.8,Flat,2,3,Heart Disease
+hdoamedjsjat8psut,34.0,Female,Atypical Angina,118,210,0,Normal,192,0,0.7,Upsloping,0,3,No Heart Disease
+hdoamed7reqgjpsut,47.0,Male,Asymptomatic,112,204,0,Normal,143,0,0.1,Upsloping,0,3,No Heart Disease
+hdoamed1jrn0xpsut,67.0,Female,Non-anginal Pain,152,277,0,Normal,172,0,0.0,Upsloping,1,3,No Heart Disease
+hdoamedds9419psut,54.0,Male,Asymptomatic,110,206,0,Abnormal,108,1,0.0,Flat,1,3,Heart Disease
+hdoamedlva28ppsut,66.0,Male,Asymptomatic,112,212,0,Abnormal,132,1,0.1,Upsloping,1,3,Heart Disease
+hdoamedl57t7bpsut,52.0,Female,Non-anginal Pain,136,196,0,Abnormal,169,0,0.1,Flat,0,3,No Heart Disease
+hdoamedg9v121psut,55.0,Female,Asymptomatic,180,327,0,Abnormal,117,1,3.4,Flat,0,3,Heart Disease
+hdoamed4kpufopsut,49.0,Male,Non-anginal Pain,118,149,0,Abnormal,126,0,0.8,Upsloping,3,3,Heart Disease
+hdoamedny13xepsut,74.0,Female,Atypical Angina,120,269,0,Abnormal,121,1,0.2,Upsloping,1,3,No Heart Disease
+hdoamedpk9wycpsut,54.0,Female,Non-anginal Pain,160,201,0,Normal,163,0,0.0,Upsloping,1,3,No Heart Disease
+hdoamedwz96u4psut,54.0,Male,Asymptomatic,122,286,0,Abnormal,116,1,3.2,Flat,2,3,Heart Disease
+hdoamedll4aj2psut,56.0,Male,Asymptomatic,130,283,1,Abnormal,103,1,1.6,Downsloping,0,7,Heart Disease
+hdoamedg1ivcvpsut,46.0,Male,Asymptomatic,120,249,0,Abnormal,144,0,0.8,Upsloping,0,7,Heart Disease
+hdoamed2ybzf4psut,49.0,Female,Atypical Angina,134,271,0,Normal,162,0,0.0,Flat,0,3,No Heart Disease
+hdoamedbfdlw7psut,42.0,Male,Atypical Angina,120,295,0,Normal,162,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedcdk0whpsut,41.0,Male,Atypical Angina,110,235,0,Normal,153,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedi59mslpsut,41.0,Female,Atypical Angina,126,306,0,Normal,163,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed63426vpsut,49.0,Female,Asymptomatic,130,269,0,Normal,163,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed05hzzapsut,61.0,Male,Typical Angina,134,234,0,Normal,145,0,2.6,Flat,2,3,Heart Disease
+hdoamed35zg0mpsut,60.0,Female,Non-anginal Pain,120,178,1,Normal,96,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedk80e71psut,67.0,Male,Asymptomatic,120,237,0,Normal,71,0,1.0,Flat,0,3,Heart Disease
+hdoamedai65xxpsut,58.0,Male,Asymptomatic,100,234,0,Normal,156,0,0.1,Upsloping,1,7,Heart Disease
+hdoamedgluerdpsut,47.0,Male,Asymptomatic,110,275,0,Abnormal,118,1,1.0,Flat,1,3,Heart Disease
+hdoamedu6e640psut,52.0,Male,Asymptomatic,125,212,0,Normal,168,0,1.0,Upsloping,2,7,Heart Disease
+hdoameddbqfnrpsut,62.0,Male,Atypical Angina,128,208,1,Abnormal,140,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedow89nopsut,57.0,Male,Asymptomatic,110,201,0,Normal,126,1,1.5,Flat,0,6,No Heart Disease
+hdoamedvbyjtgpsut,58.0,Male,Asymptomatic,146,218,0,Normal,105,0,2.0,Flat,1,7,Heart Disease
+hdoamedky3wifpsut,64.0,Male,Asymptomatic,128,263,0,Normal,105,1,0.2,Flat,1,7,No Heart Disease
+hdoamedfeh727psut,51.0,Female,Non-anginal Pain,120,295,0,Abnormal,157,0,0.6,Upsloping,0,3,No Heart Disease
+hdoamedsb0cegpsut,43.0,Male,Asymptomatic,115,303,0,Normal,181,0,1.2,Flat,0,3,No Heart Disease
+hdoamedascxmjpsut,42.0,Female,Non-anginal Pain,120,209,0,Normal,173,0,0.0,Flat,0,3,No Heart Disease
+hdoamedbpjcmtpsut,67.0,Female,Asymptomatic,106,223,0,Normal,142,0,0.3,Upsloping,2,3,No Heart Disease
+hdoamedxpb887psut,76.0,Female,Non-anginal Pain,140,197,0,Abnormal,116,0,1.1,Flat,0,3,No Heart Disease
+hdoamedb05al4psut,70.0,Male,Atypical Angina,156,245,0,Abnormal,143,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed4f8a4lpsut,57.0,Male,Atypical Angina,124,261,0,Normal,141,0,0.3,Upsloping,0,7,Heart Disease
+hdoamed5qpd5jpsut,44.0,Female,Non-anginal Pain,118,242,0,Normal,149,0,0.3,Flat,1,3,No Heart Disease
+hdoamedc6fnbapsut,58.0,Female,Atypical Angina,136,319,1,Abnormal,152,0,0.0,Upsloping,2,3,Heart Disease
+hdoamed12kqzjpsut,60.0,Female,Typical Angina,150,240,0,Normal,171,0,0.9,Upsloping,0,3,No Heart Disease
+hdoamedwiybjbpsut,44.0,Male,Non-anginal Pain,120,226,0,Normal,169,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed95igvkpsut,61.0,Male,Asymptomatic,138,166,0,Abnormal,125,1,3.6,Flat,1,3,Heart Disease
+hdoamedswt1ddpsut,42.0,Male,Asymptomatic,136,315,0,Normal,125,1,1.8,Flat,0,6,Heart Disease
+hdoamedst0g3npsut,52.0,Male,Asymptomatic,128,204,1,Normal,156,1,1.0,Flat,0,3,Heart Disease
+hdoamedylp381psut,59.0,Male,Non-anginal Pain,126,218,1,Normal,134,0,2.2,Flat,1,6,Heart Disease
+hdoamednjkjmcpsut,40.0,Male,Asymptomatic,152,223,0,Normal,181,0,0.0,Upsloping,0,7,Heart Disease
+hdoamed7cxf5gpsut,42.0,Male,Non-anginal Pain,130,180,0,Normal,150,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedjlfwh2psut,61.0,Male,Asymptomatic,140,207,0,Abnormal,138,1,1.9,Upsloping,1,7,Heart Disease
+hdoamedroguohpsut,66.0,Male,Asymptomatic,160,228,0,Abnormal,138,0,2.3,Upsloping,0,6,No Heart Disease
+hdoamedrymmd3psut,46.0,Male,Asymptomatic,140,311,0,Normal,120,1,1.8,Flat,2,7,Heart Disease
+hdoamedm2ak8kpsut,71.0,Female,Asymptomatic,112,149,0,Normal,125,0,1.6,Flat,0,3,No Heart Disease
+hdoamedadvmlgpsut,59.0,Male,Typical Angina,134,204,0,Normal,162,0,0.8,Upsloping,2,3,Heart Disease
+hdoamedtr7m37psut,64.0,Male,Typical Angina,170,227,0,Abnormal,155,0,0.6,Flat,0,7,No Heart Disease
+hdoamed4cfp45psut,66.0,Female,Non-anginal Pain,146,278,0,Abnormal,152,0,0.0,Flat,1,3,No Heart Disease
+hdoamedbiezanpsut,39.0,Female,Non-anginal Pain,138,220,0,Normal,152,0,0.0,Flat,0,3,No Heart Disease
+hdoamed1ea3pvpsut,57.0,Male,Atypical Angina,154,232,0,Abnormal,164,0,0.0,Upsloping,1,3,Heart Disease
+hdoamedvuyninpsut,58.0,Female,Asymptomatic,130,197,0,Normal,131,0,0.6,Flat,0,3,No Heart Disease
+hdoamed8hhsuwpsut,57.0,Male,Asymptomatic,110,335,0,Normal,143,1,3.0,Flat,1,7,Heart Disease
+hdoamedr8id2qpsut,47.0,Male,Non-anginal Pain,130,253,0,Normal,179,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedr6pt29psut,55.0,Female,Asymptomatic,128,205,0,Abnormal,130,1,2.0,Flat,1,7,Heart Disease
+hdoamedoxofydpsut,35.0,Male,Atypical Angina,122,192,0,Normal,174,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamedcwjvlopsut,61.0,Male,Asymptomatic,148,203,0,Normal,161,0,0.0,Upsloping,1,7,Heart Disease
+hdoamed6ows42psut,58.0,Male,Asymptomatic,114,318,0,Abnormal,140,0,4.4,Downsloping,3,6,Heart Disease
+hdoamedixe96epsut,58.0,Female,Asymptomatic,170,225,1,Abnormal,146,1,2.8,Flat,2,6,Heart Disease
+hdoamedq0f6dtpsut,58.0,Male,Atypical Angina,125,220,0,Normal,144,0,0.4,Flat,0,7,No Heart Disease
+hdoamedqabycgpsut,56.0,Male,Atypical Angina,130,221,0,Abnormal,163,0,0.0,Upsloping,0,7,No Heart Disease
+hdoamedle0675psut,56.0,Male,Atypical Angina,120,240,0,Normal,169,0,0.0,Downsloping,0,3,No Heart Disease
+hdoamed9puzktpsut,67.0,Male,Non-anginal Pain,152,212,0,Abnormal,150,0,0.8,Flat,0,7,Heart Disease
+hdoameds3682jpsut,55.0,Female,Atypical Angina,132,342,0,Normal,166,0,1.2,Upsloping,0,3,No Heart Disease
+hdoamedupe13hpsut,44.0,Male,Asymptomatic,120,169,0,Normal,144,1,2.8,Downsloping,0,6,Heart Disease
+hdoamed14ebz9psut,63.0,Male,Asymptomatic,140,187,0,Abnormal,144,1,4.0,Upsloping,2,7,Heart Disease
+hdoamedqq9fo7psut,63.0,Female,Asymptomatic,124,197,0,Normal,136,1,0.0,Flat,0,3,Heart Disease
+hdoamedl6nzh0psut,41.0,Male,Atypical Angina,120,157,0,Normal,182,0,0.0,Upsloping,0,3,No Heart Disease
+hdoamed73g4k9psut,59.0,Male,Asymptomatic,164,176,1,Abnormal,90,0,1.0,Flat,2,6,Heart Disease
+hdoamedgkiq1cpsut,57.0,Female,Asymptomatic,140,241,0,Normal,123,1,0.2,Flat,0,7,Heart Disease
+hdoamedhio51mpsut,45.0,Male,Typical Angina,110,264,0,Normal,132,0,1.2,Flat,0,7,Heart Disease
+hdoamedn9erxppsut,68.0,Male,Asymptomatic,144,193,1,Normal,141,0,3.4,Flat,2,7,Heart Disease
+hdoamedb887b0psut,57.0,Male,Asymptomatic,130,131,0,Normal,115,1,1.2,Flat,1,7,Heart Disease
+hdoamed5al44fpsut,57.0,Female,Atypical Angina,130,236,0,Abnormal,174,0,0.0,Flat,1,3,Heart Disease
+hdoamed8a4l5qpsut,38.0,Male,Non-anginal Pain,138,175,0,Normal,173,0,0.0,Upsloping,0,3,No Heart Disease
