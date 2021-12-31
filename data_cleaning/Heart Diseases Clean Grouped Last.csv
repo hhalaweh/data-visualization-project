@@ -1,304 +1,304 @@
 Age,Sex,Chest Pain Type,Resting Blood Pressure,Cholestrol,Fasting Blood Pressure > 120mg/dl,Rest ECG,Maximum Heart Rate,Exercise Induced Angina,Exercise Induced ST Depression,Slope,Number of Major Vessels,Thalassemia,Outcome
-63.0,Male,Typical Angina,145,233,True,Abnormal,150,No,2.3,Downsloping,Zero,Fixed Defect,No Heart Disease
-67.0,Male,Asymptomatic,160,286,False,Abnormal,108,Yes,1.5,Flat,Three,Normal,Heart Disease
-67.0,Male,Asymptomatic,120,229,False,Abnormal,129,Yes,2.6,Flat,Two,Reversable Defect,Heart Disease
-37.0,Male,Non-anginal Pain,130,250,False,Normal,187,No,3.5,Downsloping,Zero,Normal,No Heart Disease
-41.0,Female,Atypical Angina,130,204,False,Abnormal,172,No,1.4,Upsloping,Zero,Normal,No Heart Disease
-56.0,Male,Atypical Angina,120,236,False,Normal,178,No,0.8,Upsloping,Zero,Normal,No Heart Disease
-62.0,Female,Asymptomatic,140,268,False,Abnormal,160,No,3.6,Downsloping,Two,Normal,Heart Disease
-57.0,Female,Asymptomatic,120,354,False,Normal,163,Yes,0.6,Upsloping,Zero,Normal,No Heart Disease
-63.0,Male,Asymptomatic,130,254,False,Abnormal,147,No,1.4,Flat,One,Reversable Defect,Heart Disease
-53.0,Male,Asymptomatic,140,203,True,Abnormal,155,Yes,3.1,Downsloping,Zero,Reversable Defect,Heart Disease
-57.0,Male,Asymptomatic,140,192,False,Normal,148,No,0.4,Flat,Zero,Fixed Defect,No Heart Disease
-56.0,Female,Atypical Angina,140,294,False,Abnormal,153,No,1.3,Flat,Zero,Normal,No Heart Disease
-56.0,Male,Non-anginal Pain,130,256,True,Abnormal,142,Yes,0.6,Flat,One,Fixed Defect,Heart Disease
-44.0,Male,Atypical Angina,120,263,False,Normal,173,No,0.0,Upsloping,Zero,Reversable Defect,No Heart Disease
-52.0,Male,Non-anginal Pain,172,199,True,Normal,162,No,0.5,Upsloping,Zero,Reversable Defect,No Heart Disease
-57.0,Male,Non-anginal Pain,150,168,False,Normal,174,No,1.6,Upsloping,Zero,Normal,No Heart Disease
-48.0,Male,Atypical Angina,110,229,False,Normal,168,No,1.0,Downsloping,Zero,Reversable Defect,Heart Disease
-54.0,Male,Asymptomatic,140,239,False,Normal,160,No,1.2,Upsloping,Zero,Normal,No Heart Disease
-48.0,Female,Non-anginal Pain,130,275,False,Normal,139,No,0.2,Upsloping,Zero,Normal,No Heart Disease
-49.0,Male,Atypical Angina,130,266,False,Normal,171,No,0.6,Upsloping,Zero,Normal,No Heart Disease
-64.0,Male,Typical Angina,110,211,False,Abnormal,144,Yes,1.8,Flat,Zero,Normal,No Heart Disease
-58.0,Female,Typical Angina,150,283,True,Abnormal,162,No,1.0,Upsloping,Zero,Normal,No Heart Disease
-58.0,Male,Atypical Angina,120,284,False,Abnormal,160,No,1.8,Flat,Zero,Normal,Heart Disease
-58.0,Male,Non-anginal Pain,132,224,False,Abnormal,173,No,3.2,Upsloping,Two,Reversable Defect,Heart Disease
-60.0,Male,Asymptomatic,130,206,False,Abnormal,132,Yes,2.4,Flat,Two,Reversable Defect,Heart Disease
-50.0,Female,Non-anginal Pain,120,219,False,Normal,158,No,1.6,Flat,Zero,Normal,No Heart Disease
-58.0,Female,Non-anginal Pain,120,340,False,Normal,172,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-66.0,Female,Typical Angina,150,226,False,Normal,114,No,2.6,Downsloping,Zero,Normal,No Heart Disease
-43.0,Male,Asymptomatic,150,247,False,Normal,171,No,1.5,Upsloping,Zero,Normal,No Heart Disease
-40.0,Male,Asymptomatic,110,167,False,Abnormal,114,Yes,2.0,Flat,Zero,Reversable Defect,Heart Disease
-69.0,Female,Typical Angina,140,239,False,Normal,151,No,1.8,Upsloping,Two,Normal,No Heart Disease
-60.0,Male,Asymptomatic,117,230,True,Normal,160,Yes,1.4,Upsloping,Two,Reversable Defect,Heart Disease
-64.0,Male,Non-anginal Pain,140,335,False,Normal,158,No,0.0,Upsloping,Zero,Normal,Heart Disease
-59.0,Male,Asymptomatic,135,234,False,Normal,161,No,0.5,Flat,Zero,Reversable Defect,No Heart Disease
-44.0,Male,Non-anginal Pain,130,233,False,Normal,179,Yes,0.4,Upsloping,Zero,Normal,No Heart Disease
-42.0,Male,Asymptomatic,140,226,False,Normal,178,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-43.0,Male,Asymptomatic,120,177,False,Abnormal,120,Yes,2.5,Flat,Zero,Reversable Defect,Heart Disease
-57.0,Male,Asymptomatic,150,276,False,Abnormal,112,Yes,0.6,Flat,One,Fixed Defect,Heart Disease
-55.0,Male,Asymptomatic,132,353,False,Normal,132,Yes,1.2,Flat,One,Reversable Defect,Heart Disease
-61.0,Male,Non-anginal Pain,150,243,True,Normal,137,Yes,1.0,Flat,Zero,Normal,No Heart Disease
-65.0,Female,Asymptomatic,150,225,False,Abnormal,114,No,1.0,Flat,Three,Reversable Defect,Heart Disease
-40.0,Male,Typical Angina,140,199,False,Normal,178,Yes,1.4,Upsloping,Zero,Reversable Defect,No Heart Disease
-71.0,Female,Atypical Angina,160,302,False,Normal,162,No,0.4,Upsloping,Two,Normal,No Heart Disease
-59.0,Male,Non-anginal Pain,150,212,True,Normal,157,No,1.6,Upsloping,Zero,Normal,No Heart Disease
-61.0,Female,Asymptomatic,130,330,False,Abnormal,169,No,0.0,Upsloping,Zero,Normal,Heart Disease
-58.0,Male,Non-anginal Pain,112,230,False,Abnormal,165,No,2.5,Flat,One,Reversable Defect,Heart Disease
-51.0,Male,Non-anginal Pain,110,175,False,Normal,123,No,0.6,Upsloping,Zero,Normal,No Heart Disease
-50.0,Male,Asymptomatic,150,243,False,Abnormal,128,No,2.6,Flat,Zero,Reversable Defect,Heart Disease
-65.0,Female,Non-anginal Pain,140,417,True,Abnormal,157,No,0.8,Upsloping,One,Normal,No Heart Disease
-53.0,Male,Non-anginal Pain,130,197,True,Abnormal,152,No,1.2,Downsloping,Zero,Normal,No Heart Disease
-41.0,Female,Atypical Angina,105,198,False,Normal,168,No,0.0,Upsloping,One,Normal,No Heart Disease
-65.0,Male,Asymptomatic,120,177,False,Normal,140,No,0.4,Upsloping,Zero,Reversable Defect,No Heart Disease
-44.0,Male,Asymptomatic,112,290,False,Abnormal,153,No,0.0,Upsloping,One,Normal,Heart Disease
-44.0,Male,Atypical Angina,130,219,False,Abnormal,188,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-60.0,Male,Asymptomatic,130,253,False,Normal,144,Yes,1.4,Upsloping,One,Reversable Defect,Heart Disease
-54.0,Male,Asymptomatic,124,266,False,Abnormal,109,Yes,2.2,Flat,One,Reversable Defect,Heart Disease
-50.0,Male,Non-anginal Pain,140,233,False,Normal,163,No,0.6,Flat,One,Reversable Defect,Heart Disease
-41.0,Male,Asymptomatic,110,172,False,Abnormal,158,No,0.0,Upsloping,Zero,Reversable Defect,Heart Disease
-54.0,Male,Non-anginal Pain,125,273,False,Abnormal,152,No,0.5,Downsloping,One,Normal,No Heart Disease
-51.0,Male,Typical Angina,125,213,False,Abnormal,125,Yes,1.4,Upsloping,One,Normal,No Heart Disease
-51.0,Female,Asymptomatic,130,305,False,Normal,142,Yes,1.2,Flat,Zero,Reversable Defect,Heart Disease
-46.0,Female,Non-anginal Pain,142,177,False,Abnormal,160,Yes,1.4,Downsloping,Zero,Normal,No Heart Disease
-58.0,Male,Asymptomatic,128,216,False,Abnormal,131,Yes,2.2,Flat,Three,Reversable Defect,Heart Disease
-54.0,Female,Non-anginal Pain,135,304,True,Normal,170,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-54.0,Male,Asymptomatic,120,188,False,Normal,113,No,1.4,Flat,One,Reversable Defect,Heart Disease
-60.0,Male,Asymptomatic,145,282,False,Abnormal,142,Yes,2.8,Flat,Two,Reversable Defect,Heart Disease
-60.0,Male,Non-anginal Pain,140,185,False,Abnormal,155,No,3.0,Flat,Zero,Normal,Heart Disease
-54.0,Male,Non-anginal Pain,150,232,False,Abnormal,165,No,1.6,Upsloping,Zero,Reversable Defect,No Heart Disease
-59.0,Male,Asymptomatic,170,326,False,Abnormal,140,Yes,3.4,Downsloping,Zero,Reversable Defect,Heart Disease
-46.0,Male,Non-anginal Pain,150,231,False,Normal,147,No,3.6,Flat,Zero,Normal,Heart Disease
-65.0,Female,Non-anginal Pain,155,269,False,Normal,148,No,0.8,Upsloping,Zero,Normal,No Heart Disease
-67.0,Male,Asymptomatic,125,254,True,Normal,163,No,0.2,Flat,Two,Reversable Defect,Heart Disease
-62.0,Male,Asymptomatic,120,267,False,Normal,99,Yes,1.8,Flat,Two,Reversable Defect,Heart Disease
-65.0,Male,Asymptomatic,110,248,False,Abnormal,158,No,0.6,Upsloping,Two,Fixed Defect,Heart Disease
-44.0,Male,Asymptomatic,110,197,False,Abnormal,177,No,0.0,Upsloping,One,Normal,Heart Disease
-65.0,Female,Non-anginal Pain,160,360,False,Abnormal,151,No,0.8,Upsloping,Zero,Normal,No Heart Disease
-60.0,Male,Asymptomatic,125,258,False,Abnormal,141,Yes,2.8,Flat,One,Reversable Defect,Heart Disease
-51.0,Female,Non-anginal Pain,140,308,False,Abnormal,142,No,1.5,Upsloping,One,Normal,No Heart Disease
-48.0,Male,Atypical Angina,130,245,False,Abnormal,180,No,0.2,Flat,Zero,Normal,No Heart Disease
-58.0,Male,Asymptomatic,150,270,False,Abnormal,111,Yes,0.8,Upsloping,Zero,Reversable Defect,Heart Disease
-45.0,Male,Asymptomatic,104,208,False,Abnormal,148,Yes,3.0,Flat,Zero,Normal,No Heart Disease
-53.0,Female,Asymptomatic,130,264,False,Abnormal,143,No,0.4,Flat,Zero,Normal,No Heart Disease
-39.0,Male,Non-anginal Pain,140,321,False,Abnormal,182,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-68.0,Male,Non-anginal Pain,180,274,True,Abnormal,150,Yes,1.6,Flat,Zero,Reversable Defect,Heart Disease
-52.0,Male,Atypical Angina,120,325,False,Normal,172,No,0.2,Upsloping,Zero,Normal,No Heart Disease
-44.0,Male,Non-anginal Pain,140,235,False,Abnormal,180,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-47.0,Male,Non-anginal Pain,138,257,False,Abnormal,156,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-53.0,Female,Non-anginal Pain,128,216,False,Abnormal,115,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-53.0,Female,Asymptomatic,138,234,False,Abnormal,160,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-51.0,Female,Non-anginal Pain,130,256,False,Abnormal,149,No,0.5,Upsloping,Zero,Normal,No Heart Disease
-66.0,Male,Asymptomatic,120,302,False,Abnormal,151,No,0.4,Flat,Zero,Normal,No Heart Disease
-62.0,Female,Asymptomatic,160,164,False,Abnormal,145,No,6.2,Downsloping,Three,Reversable Defect,Heart Disease
-62.0,Male,Non-anginal Pain,130,231,False,Normal,146,No,1.8,Flat,Three,Reversable Defect,No Heart Disease
-44.0,Female,Non-anginal Pain,108,141,False,Normal,175,No,0.6,Flat,Zero,Normal,No Heart Disease
-63.0,Female,Non-anginal Pain,135,252,False,Abnormal,172,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-52.0,Male,Asymptomatic,128,255,False,Normal,161,Yes,0.0,Upsloping,One,Reversable Defect,Heart Disease
-59.0,Male,Asymptomatic,110,239,False,Abnormal,142,Yes,1.2,Flat,One,Reversable Defect,Heart Disease
-60.0,Female,Asymptomatic,150,258,False,Abnormal,157,No,2.6,Flat,Two,Reversable Defect,Heart Disease
-52.0,Male,Atypical Angina,134,201,False,Normal,158,No,0.8,Upsloping,One,Normal,No Heart Disease
-48.0,Male,Asymptomatic,122,222,False,Abnormal,186,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-45.0,Male,Asymptomatic,115,260,False,Abnormal,185,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-34.0,Male,Typical Angina,118,182,False,Abnormal,174,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-57.0,Female,Asymptomatic,128,303,False,Abnormal,159,No,0.0,Upsloping,One,Normal,No Heart Disease
-71.0,Female,Non-anginal Pain,110,265,True,Abnormal,130,No,0.0,Upsloping,One,Normal,No Heart Disease
-49.0,Male,Non-anginal Pain,120,188,False,Normal,139,No,2.0,Flat,Three,Reversable Defect,Heart Disease
-54.0,Male,Atypical Angina,108,309,False,Normal,156,No,0.0,Upsloping,Zero,Reversable Defect,No Heart Disease
-59.0,Male,Asymptomatic,140,177,False,Normal,162,Yes,0.0,Upsloping,One,Reversable Defect,Heart Disease
-57.0,Male,Non-anginal Pain,128,229,False,Abnormal,150,No,0.4,Flat,One,Reversable Defect,Heart Disease
-61.0,Male,Asymptomatic,120,260,False,Normal,140,Yes,3.6,Flat,One,Reversable Defect,Heart Disease
-39.0,Male,Asymptomatic,118,219,False,Normal,140,No,1.2,Flat,Zero,Reversable Defect,Heart Disease
-61.0,Female,Asymptomatic,145,307,False,Abnormal,146,Yes,1.0,Flat,Zero,Reversable Defect,Heart Disease
-56.0,Male,Asymptomatic,125,249,True,Abnormal,144,Yes,1.2,Flat,One,Normal,Heart Disease
-52.0,Male,Typical Angina,118,186,False,Abnormal,190,No,0.0,Flat,Zero,Fixed Defect,No Heart Disease
-43.0,Female,Asymptomatic,132,341,True,Abnormal,136,Yes,3.0,Flat,Zero,Reversable Defect,Heart Disease
-62.0,Female,Non-anginal Pain,130,263,False,Normal,97,No,1.2,Flat,One,Reversable Defect,Heart Disease
-41.0,Male,Atypical Angina,135,203,False,Normal,132,No,0.0,Flat,Zero,Fixed Defect,No Heart Disease
-58.0,Male,Non-anginal Pain,140,211,True,Abnormal,165,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-35.0,Female,Asymptomatic,138,183,False,Normal,182,No,1.4,Upsloping,Zero,Normal,No Heart Disease
-63.0,Male,Asymptomatic,130,330,True,Abnormal,132,Yes,1.8,Upsloping,Three,Reversable Defect,Heart Disease
-65.0,Male,Asymptomatic,135,254,False,Abnormal,127,No,2.8,Flat,One,Reversable Defect,Heart Disease
-48.0,Male,Asymptomatic,130,256,True,Abnormal,150,Yes,0.0,Upsloping,Two,Reversable Defect,Heart Disease
-63.0,Female,Asymptomatic,150,407,False,Abnormal,154,No,4.0,Flat,Three,Reversable Defect,Heart Disease
-51.0,Male,Non-anginal Pain,100,222,False,Normal,143,Yes,1.2,Flat,Zero,Normal,No Heart Disease
-55.0,Male,Asymptomatic,140,217,False,Normal,111,Yes,5.6,Downsloping,Zero,Reversable Defect,Heart Disease
-65.0,Male,Typical Angina,138,282,True,Abnormal,174,No,1.4,Flat,One,Normal,Heart Disease
-45.0,Female,Atypical Angina,130,234,False,Abnormal,175,No,0.6,Flat,Zero,Normal,No Heart Disease
-56.0,Female,Asymptomatic,200,288,True,Abnormal,133,Yes,4.0,Downsloping,Two,Reversable Defect,Heart Disease
-54.0,Male,Asymptomatic,110,239,False,Normal,126,Yes,2.8,Flat,One,Reversable Defect,Heart Disease
-44.0,Male,Atypical Angina,120,220,False,Normal,170,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-62.0,Female,Asymptomatic,124,209,False,Normal,163,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-54.0,Male,Non-anginal Pain,120,258,False,Abnormal,147,No,0.4,Flat,Zero,Reversable Defect,No Heart Disease
-51.0,Male,Non-anginal Pain,94,227,False,Normal,154,Yes,0.0,Upsloping,One,Reversable Defect,No Heart Disease
-29.0,Male,Atypical Angina,130,204,False,Abnormal,202,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-51.0,Male,Asymptomatic,140,261,False,Abnormal,186,Yes,0.0,Upsloping,Zero,Normal,No Heart Disease
-43.0,Female,Non-anginal Pain,122,213,False,Normal,165,No,0.2,Flat,Zero,Normal,No Heart Disease
-55.0,Female,Atypical Angina,135,250,False,Abnormal,161,No,1.4,Flat,Zero,Normal,No Heart Disease
-70.0,Male,Asymptomatic,145,174,False,Normal,125,Yes,2.6,Downsloping,Zero,Reversable Defect,Heart Disease
-62.0,Male,Atypical Angina,120,281,False,Abnormal,103,No,1.4,Flat,One,Reversable Defect,Heart Disease
-35.0,Male,Asymptomatic,120,198,False,Normal,130,Yes,1.6,Flat,Zero,Reversable Defect,Heart Disease
-51.0,Male,Non-anginal Pain,125,245,True,Abnormal,166,No,2.4,Flat,Zero,Normal,No Heart Disease
-59.0,Male,Atypical Angina,140,221,False,Normal,164,Yes,0.0,Upsloping,Zero,Normal,No Heart Disease
-59.0,Male,Typical Angina,170,288,False,Abnormal,159,No,0.2,Flat,Zero,Reversable Defect,Heart Disease
-52.0,Male,Atypical Angina,128,205,True,Normal,184,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-64.0,Male,Non-anginal Pain,125,309,False,Normal,131,Yes,1.8,Flat,Zero,Reversable Defect,Heart Disease
-58.0,Male,Non-anginal Pain,105,240,False,Abnormal,154,Yes,0.6,Flat,Zero,Reversable Defect,No Heart Disease
-47.0,Male,Non-anginal Pain,108,243,False,Normal,152,No,0.0,Upsloping,Zero,Normal,Heart Disease
-57.0,Male,Asymptomatic,165,289,True,Abnormal,124,No,1.0,Flat,Three,Reversable Defect,Heart Disease
-41.0,Male,Non-anginal Pain,112,250,False,Normal,179,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-45.0,Male,Atypical Angina,128,308,False,Abnormal,170,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-60.0,Female,Non-anginal Pain,102,318,False,Normal,160,No,0.0,Upsloping,One,Normal,No Heart Disease
-52.0,Male,Typical Angina,152,298,True,Normal,178,No,1.2,Flat,Zero,Reversable Defect,No Heart Disease
-42.0,Female,Asymptomatic,102,265,False,Abnormal,122,No,0.6,Flat,Zero,Normal,No Heart Disease
-67.0,Female,Non-anginal Pain,115,564,False,Abnormal,160,No,1.6,Flat,Zero,Reversable Defect,No Heart Disease
-55.0,Male,Asymptomatic,160,289,False,Abnormal,145,Yes,0.8,Flat,One,Reversable Defect,Heart Disease
-64.0,Male,Asymptomatic,120,246,False,Abnormal,96,Yes,2.2,Downsloping,One,Normal,Heart Disease
-70.0,Male,Asymptomatic,130,322,False,Abnormal,109,No,2.4,Flat,Three,Normal,Heart Disease
-51.0,Male,Asymptomatic,140,299,False,Normal,173,Yes,1.6,Upsloping,Zero,Reversable Defect,Heart Disease
-58.0,Male,Asymptomatic,125,300,False,Abnormal,171,No,0.0,Upsloping,Two,Reversable Defect,Heart Disease
-60.0,Male,Asymptomatic,140,293,False,Abnormal,170,No,1.2,Flat,Two,Reversable Defect,Heart Disease
-68.0,Male,Non-anginal Pain,118,277,False,Normal,151,No,1.0,Upsloping,One,Reversable Defect,No Heart Disease
-46.0,Male,Atypical Angina,101,197,True,Normal,156,No,0.0,Upsloping,Zero,Reversable Defect,No Heart Disease
-77.0,Male,Asymptomatic,125,304,False,Abnormal,162,Yes,0.0,Upsloping,Three,Normal,Heart Disease
-54.0,Female,Non-anginal Pain,110,214,False,Normal,158,No,1.6,Flat,Zero,Normal,No Heart Disease
-58.0,Female,Asymptomatic,100,248,False,Abnormal,122,No,1.0,Flat,Zero,Normal,No Heart Disease
-48.0,Male,Non-anginal Pain,124,255,True,Normal,175,No,0.0,Upsloping,Two,Normal,No Heart Disease
-57.0,Male,Asymptomatic,132,207,False,Normal,168,Yes,0.0,Upsloping,Zero,Reversable Defect,No Heart Disease
-52.0,Male,Non-anginal Pain,138,223,False,Normal,169,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-54.0,Female,Atypical Angina,132,288,True,Abnormal,159,Yes,0.0,Upsloping,One,Normal,No Heart Disease
-35.0,Male,Asymptomatic,126,282,False,Abnormal,156,Yes,0.0,Upsloping,Zero,Reversable Defect,Heart Disease
-45.0,Female,Atypical Angina,112,160,False,Normal,138,No,0.0,Flat,Zero,Normal,No Heart Disease
-70.0,Male,Non-anginal Pain,160,269,False,Normal,112,Yes,2.9,Flat,One,Reversable Defect,Heart Disease
-53.0,Male,Asymptomatic,142,226,False,Abnormal,111,Yes,0.0,Upsloping,Zero,Reversable Defect,No Heart Disease
-59.0,Female,Asymptomatic,174,249,False,Normal,143,Yes,0.0,Flat,Zero,Normal,Heart Disease
-62.0,Female,Asymptomatic,140,394,False,Abnormal,157,No,1.2,Flat,Zero,Normal,No Heart Disease
-64.0,Male,Asymptomatic,145,212,False,Abnormal,132,No,2.0,Flat,Two,Fixed Defect,Heart Disease
-57.0,Male,Asymptomatic,152,274,False,Normal,88,Yes,1.2,Flat,One,Reversable Defect,Heart Disease
-52.0,Male,Asymptomatic,108,233,True,Normal,147,No,0.1,Upsloping,Three,Reversable Defect,No Heart Disease
-56.0,Male,Asymptomatic,132,184,False,Abnormal,105,Yes,2.1,Flat,One,Fixed Defect,Heart Disease
-43.0,Male,Non-anginal Pain,130,315,False,Normal,162,No,1.9,Upsloping,One,Normal,No Heart Disease
-53.0,Male,Non-anginal Pain,130,246,True,Abnormal,173,No,0.0,Upsloping,Three,Normal,No Heart Disease
-48.0,Male,Asymptomatic,124,274,False,Abnormal,166,No,0.5,Flat,Zero,Reversable Defect,Heart Disease
-56.0,Female,Asymptomatic,134,409,False,Abnormal,150,Yes,1.9,Flat,Two,Reversable Defect,Heart Disease
-42.0,Male,Typical Angina,148,244,False,Abnormal,178,No,0.8,Upsloping,Two,Normal,No Heart Disease
-59.0,Male,Typical Angina,178,270,False,Abnormal,145,No,4.2,Downsloping,Zero,Reversable Defect,No Heart Disease
-60.0,Female,Asymptomatic,158,305,False,Abnormal,161,No,0.0,Upsloping,Zero,Normal,Heart Disease
-63.0,Female,Atypical Angina,140,195,False,Normal,179,No,0.0,Upsloping,Two,Normal,No Heart Disease
-42.0,Male,Non-anginal Pain,120,240,True,Normal,194,No,0.8,Downsloping,Zero,Reversable Defect,No Heart Disease
-66.0,Male,Atypical Angina,160,246,False,Normal,120,Yes,0.0,Flat,Three,Fixed Defect,Heart Disease
-54.0,Male,Atypical Angina,192,283,False,Abnormal,195,No,0.0,Upsloping,One,Reversable Defect,Heart Disease
-69.0,Male,Non-anginal Pain,140,254,False,Abnormal,146,No,2.0,Flat,Three,Reversable Defect,Heart Disease
-50.0,Male,Non-anginal Pain,129,196,False,Normal,163,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-51.0,Male,Asymptomatic,140,298,False,Normal,122,Yes,4.2,Flat,Three,Reversable Defect,Heart Disease
-43.0,Male,Asymptomatic,132,247,True,Abnormal,143,Yes,0.1,Flat,Zero,Reversable Defect,Heart Disease
-62.0,Female,Asymptomatic,138,294,True,Normal,106,No,1.9,Flat,Three,Normal,Heart Disease
-68.0,Female,Non-anginal Pain,120,211,False,Abnormal,115,No,1.5,Flat,Zero,Normal,No Heart Disease
-67.0,Male,Asymptomatic,100,299,False,Abnormal,125,Yes,0.9,Flat,Two,Normal,Heart Disease
-69.0,Male,Typical Angina,160,234,True,Abnormal,131,No,0.1,Flat,One,Normal,No Heart Disease
-45.0,Female,Asymptomatic,138,236,False,Abnormal,152,Yes,0.2,Flat,Zero,Normal,No Heart Disease
-50.0,Female,Atypical Angina,120,244,False,Normal,162,No,1.1,Upsloping,Zero,Normal,No Heart Disease
-59.0,Male,Typical Angina,160,273,False,Abnormal,125,No,0.0,Upsloping,Zero,Normal,Heart Disease
-50.0,Female,Asymptomatic,110,254,False,Abnormal,159,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-64.0,Female,Asymptomatic,180,325,False,Normal,154,Yes,0.0,Upsloping,Zero,Normal,No Heart Disease
-57.0,Male,Non-anginal Pain,150,126,True,Normal,173,No,0.2,Upsloping,One,Reversable Defect,No Heart Disease
-64.0,Female,Non-anginal Pain,140,313,False,Normal,133,No,0.2,Upsloping,Zero,Reversable Defect,No Heart Disease
-43.0,Male,Asymptomatic,110,211,False,Normal,161,No,0.0,Upsloping,Zero,Reversable Defect,No Heart Disease
-45.0,Male,Asymptomatic,142,309,False,Abnormal,147,Yes,0.0,Flat,Three,Reversable Defect,Heart Disease
-58.0,Male,Asymptomatic,128,259,False,Abnormal,130,Yes,3.0,Flat,Two,Reversable Defect,Heart Disease
-50.0,Male,Asymptomatic,144,200,False,Abnormal,126,Yes,0.9,Flat,Zero,Reversable Defect,Heart Disease
-55.0,Male,Atypical Angina,130,262,False,Normal,155,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-62.0,Female,Asymptomatic,150,244,False,Normal,154,Yes,1.4,Flat,Zero,Normal,Heart Disease
-37.0,Female,Non-anginal Pain,120,215,False,Normal,170,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-38.0,Male,Typical Angina,120,231,False,Normal,182,Yes,3.8,Flat,Zero,Reversable Defect,Heart Disease
-41.0,Male,Non-anginal Pain,130,214,False,Abnormal,168,No,2.0,Flat,Zero,Normal,No Heart Disease
-66.0,Female,Asymptomatic,178,228,True,Normal,165,Yes,1.0,Flat,Two,Reversable Defect,Heart Disease
-52.0,Male,Asymptomatic,112,230,False,Normal,160,No,0.0,Upsloping,One,Normal,Heart Disease
-56.0,Male,Typical Angina,120,193,False,Abnormal,162,No,1.9,Flat,Zero,Reversable Defect,No Heart Disease
-46.0,Female,Atypical Angina,105,204,False,Normal,172,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-46.0,Female,Asymptomatic,138,243,False,Abnormal,152,Yes,0.0,Flat,Zero,Normal,No Heart Disease
-64.0,Female,Asymptomatic,130,303,False,Normal,122,No,2.0,Flat,Two,Normal,No Heart Disease
-59.0,Male,Asymptomatic,138,271,False,Abnormal,182,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-41.0,Female,Non-anginal Pain,112,268,False,Abnormal,172,Yes,0.0,Upsloping,Zero,Normal,No Heart Disease
-54.0,Female,Non-anginal Pain,108,267,False,Abnormal,167,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-39.0,Female,Non-anginal Pain,94,199,False,Normal,179,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-53.0,Male,Asymptomatic,123,282,False,Normal,95,Yes,2.0,Flat,Two,Reversable Defect,Heart Disease
-63.0,Female,Asymptomatic,108,269,False,Normal,169,Yes,1.8,Flat,Two,Normal,Heart Disease
-34.0,Female,Atypical Angina,118,210,False,Normal,192,No,0.7,Upsloping,Zero,Normal,No Heart Disease
-47.0,Male,Asymptomatic,112,204,False,Normal,143,No,0.1,Upsloping,Zero,Normal,No Heart Disease
-67.0,Female,Non-anginal Pain,152,277,False,Normal,172,No,0.0,Upsloping,One,Normal,No Heart Disease
-54.0,Male,Asymptomatic,110,206,False,Abnormal,108,Yes,0.0,Flat,One,Normal,Heart Disease
-66.0,Male,Asymptomatic,112,212,False,Abnormal,132,Yes,0.1,Upsloping,One,Normal,Heart Disease
-52.0,Female,Non-anginal Pain,136,196,False,Abnormal,169,No,0.1,Flat,Zero,Normal,No Heart Disease
-55.0,Female,Asymptomatic,180,327,False,Abnormal,117,Yes,3.4,Flat,Zero,Normal,Heart Disease
-49.0,Male,Non-anginal Pain,118,149,False,Abnormal,126,No,0.8,Upsloping,Three,Normal,Heart Disease
-74.0,Female,Atypical Angina,120,269,False,Abnormal,121,Yes,0.2,Upsloping,One,Normal,No Heart Disease
-54.0,Female,Non-anginal Pain,160,201,False,Normal,163,No,0.0,Upsloping,One,Normal,No Heart Disease
-54.0,Male,Asymptomatic,122,286,False,Abnormal,116,Yes,3.2,Flat,Two,Normal,Heart Disease
-56.0,Male,Asymptomatic,130,283,True,Abnormal,103,Yes,1.6,Downsloping,Zero,Reversable Defect,Heart Disease
-46.0,Male,Asymptomatic,120,249,False,Abnormal,144,No,0.8,Upsloping,Zero,Reversable Defect,Heart Disease
-49.0,Female,Atypical Angina,134,271,False,Normal,162,No,0.0,Flat,Zero,Normal,No Heart Disease
-42.0,Male,Atypical Angina,120,295,False,Normal,162,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-41.0,Male,Atypical Angina,110,235,False,Normal,153,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-41.0,Female,Atypical Angina,126,306,False,Normal,163,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-49.0,Female,Asymptomatic,130,269,False,Normal,163,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-61.0,Male,Typical Angina,134,234,False,Normal,145,No,2.6,Flat,Two,Normal,Heart Disease
-60.0,Female,Non-anginal Pain,120,178,True,Normal,96,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-67.0,Male,Asymptomatic,120,237,False,Normal,71,No,1.0,Flat,Zero,Normal,Heart Disease
-58.0,Male,Asymptomatic,100,234,False,Normal,156,No,0.1,Upsloping,One,Reversable Defect,Heart Disease
-47.0,Male,Asymptomatic,110,275,False,Abnormal,118,Yes,1.0,Flat,One,Normal,Heart Disease
-52.0,Male,Asymptomatic,125,212,False,Normal,168,No,1.0,Upsloping,Two,Reversable Defect,Heart Disease
-62.0,Male,Atypical Angina,128,208,True,Abnormal,140,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-57.0,Male,Asymptomatic,110,201,False,Normal,126,Yes,1.5,Flat,Zero,Fixed Defect,No Heart Disease
-58.0,Male,Asymptomatic,146,218,False,Normal,105,No,2.0,Flat,One,Reversable Defect,Heart Disease
-64.0,Male,Asymptomatic,128,263,False,Normal,105,Yes,0.2,Flat,One,Reversable Defect,No Heart Disease
-51.0,Female,Non-anginal Pain,120,295,False,Abnormal,157,No,0.6,Upsloping,Zero,Normal,No Heart Disease
-43.0,Male,Asymptomatic,115,303,False,Normal,181,No,1.2,Flat,Zero,Normal,No Heart Disease
-42.0,Female,Non-anginal Pain,120,209,False,Normal,173,No,0.0,Flat,Zero,Normal,No Heart Disease
-67.0,Female,Asymptomatic,106,223,False,Normal,142,No,0.3,Upsloping,Two,Normal,No Heart Disease
-76.0,Female,Non-anginal Pain,140,197,False,Abnormal,116,No,1.1,Flat,Zero,Normal,No Heart Disease
-70.0,Male,Atypical Angina,156,245,False,Abnormal,143,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-57.0,Male,Atypical Angina,124,261,False,Normal,141,No,0.3,Upsloping,Zero,Reversable Defect,Heart Disease
-44.0,Female,Non-anginal Pain,118,242,False,Normal,149,No,0.3,Flat,One,Normal,No Heart Disease
-58.0,Female,Atypical Angina,136,319,True,Abnormal,152,No,0.0,Upsloping,Two,Normal,Heart Disease
-60.0,Female,Typical Angina,150,240,False,Normal,171,No,0.9,Upsloping,Zero,Normal,No Heart Disease
-44.0,Male,Non-anginal Pain,120,226,False,Normal,169,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-61.0,Male,Asymptomatic,138,166,False,Abnormal,125,Yes,3.6,Flat,One,Normal,Heart Disease
-42.0,Male,Asymptomatic,136,315,False,Normal,125,Yes,1.8,Flat,Zero,Fixed Defect,Heart Disease
-52.0,Male,Asymptomatic,128,204,True,Normal,156,Yes,1.0,Flat,Zero,Normal,Heart Disease
-59.0,Male,Non-anginal Pain,126,218,True,Normal,134,No,2.2,Flat,One,Fixed Defect,Heart Disease
-40.0,Male,Asymptomatic,152,223,False,Normal,181,No,0.0,Upsloping,Zero,Reversable Defect,Heart Disease
-42.0,Male,Non-anginal Pain,130,180,False,Normal,150,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-61.0,Male,Asymptomatic,140,207,False,Abnormal,138,Yes,1.9,Upsloping,One,Reversable Defect,Heart Disease
-66.0,Male,Asymptomatic,160,228,False,Abnormal,138,No,2.3,Upsloping,Zero,Fixed Defect,No Heart Disease
-46.0,Male,Asymptomatic,140,311,False,Normal,120,Yes,1.8,Flat,Two,Reversable Defect,Heart Disease
-71.0,Female,Asymptomatic,112,149,False,Normal,125,No,1.6,Flat,Zero,Normal,No Heart Disease
-59.0,Male,Typical Angina,134,204,False,Normal,162,No,0.8,Upsloping,Two,Normal,Heart Disease
-64.0,Male,Typical Angina,170,227,False,Abnormal,155,No,0.6,Flat,Zero,Reversable Defect,No Heart Disease
-66.0,Female,Non-anginal Pain,146,278,False,Abnormal,152,No,0.0,Flat,One,Normal,No Heart Disease
-39.0,Female,Non-anginal Pain,138,220,False,Normal,152,No,0.0,Flat,Zero,Normal,No Heart Disease
-57.0,Male,Atypical Angina,154,232,False,Abnormal,164,No,0.0,Upsloping,One,Normal,Heart Disease
-58.0,Female,Asymptomatic,130,197,False,Normal,131,No,0.6,Flat,Zero,Normal,No Heart Disease
-57.0,Male,Asymptomatic,110,335,False,Normal,143,Yes,3.0,Flat,One,Reversable Defect,Heart Disease
-47.0,Male,Non-anginal Pain,130,253,False,Normal,179,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-55.0,Female,Asymptomatic,128,205,False,Abnormal,130,Yes,2.0,Flat,One,Reversable Defect,Heart Disease
-35.0,Male,Atypical Angina,122,192,False,Normal,174,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-61.0,Male,Asymptomatic,148,203,False,Normal,161,No,0.0,Upsloping,One,Reversable Defect,Heart Disease
-58.0,Male,Asymptomatic,114,318,False,Abnormal,140,No,4.4,Downsloping,Three,Fixed Defect,Heart Disease
-58.0,Female,Asymptomatic,170,225,True,Abnormal,146,Yes,2.8,Flat,Two,Fixed Defect,Heart Disease
-58.0,Male,Atypical Angina,125,220,False,Normal,144,No,0.4,Flat,Zero,Reversable Defect,No Heart Disease
-56.0,Male,Atypical Angina,130,221,False,Abnormal,163,No,0.0,Upsloping,Zero,Reversable Defect,No Heart Disease
-56.0,Male,Atypical Angina,120,240,False,Normal,169,No,0.0,Downsloping,Zero,Normal,No Heart Disease
-67.0,Male,Non-anginal Pain,152,212,False,Abnormal,150,No,0.8,Flat,Zero,Reversable Defect,Heart Disease
-55.0,Female,Atypical Angina,132,342,False,Normal,166,No,1.2,Upsloping,Zero,Normal,No Heart Disease
-44.0,Male,Asymptomatic,120,169,False,Normal,144,Yes,2.8,Downsloping,Zero,Fixed Defect,Heart Disease
-63.0,Male,Asymptomatic,140,187,False,Abnormal,144,Yes,4.0,Upsloping,Two,Reversable Defect,Heart Disease
-63.0,Female,Asymptomatic,124,197,False,Normal,136,Yes,0.0,Flat,Zero,Normal,Heart Disease
-41.0,Male,Atypical Angina,120,157,False,Normal,182,No,0.0,Upsloping,Zero,Normal,No Heart Disease
-59.0,Male,Asymptomatic,164,176,True,Abnormal,90,No,1.0,Flat,Two,Fixed Defect,Heart Disease
-57.0,Female,Asymptomatic,140,241,False,Normal,123,Yes,0.2,Flat,Zero,Reversable Defect,Heart Disease
-45.0,Male,Typical Angina,110,264,False,Normal,132,No,1.2,Flat,Zero,Reversable Defect,Heart Disease
-68.0,Male,Asymptomatic,144,193,True,Normal,141,No,3.4,Flat,Two,Reversable Defect,Heart Disease
-57.0,Male,Asymptomatic,130,131,False,Normal,115,Yes,1.2,Flat,One,Reversable Defect,Heart Disease
-57.0,Female,Atypical Angina,130,236,False,Abnormal,174,No,0.0,Flat,One,Normal,Heart Disease
-38.0,Male,Non-anginal Pain,138,175,False,Normal,173,No,0.0,Upsloping,Zero,Normal,No Heart Disease
+63.0,Male,Typical Angina,145,233,True,Abnormal,150,No,2.3,Downsloping,0,Fixed Defect,No Heart Disease
+67.0,Male,Asymptomatic,160,286,False,Abnormal,108,Yes,1.5,Flat,3,Normal,Heart Disease
+67.0,Male,Asymptomatic,120,229,False,Abnormal,129,Yes,2.6,Flat,2,Reversable Defect,Heart Disease
+37.0,Male,Non-anginal Pain,130,250,False,Normal,187,No,3.5,Downsloping,0,Normal,No Heart Disease
+41.0,Female,Atypical Angina,130,204,False,Abnormal,172,No,1.4,Upsloping,0,Normal,No Heart Disease
+56.0,Male,Atypical Angina,120,236,False,Normal,178,No,0.8,Upsloping,0,Normal,No Heart Disease
+62.0,Female,Asymptomatic,140,268,False,Abnormal,160,No,3.6,Downsloping,2,Normal,Heart Disease
+57.0,Female,Asymptomatic,120,354,False,Normal,163,Yes,0.6,Upsloping,0,Normal,No Heart Disease
+63.0,Male,Asymptomatic,130,254,False,Abnormal,147,No,1.4,Flat,1,Reversable Defect,Heart Disease
+53.0,Male,Asymptomatic,140,203,True,Abnormal,155,Yes,3.1,Downsloping,0,Reversable Defect,Heart Disease
+57.0,Male,Asymptomatic,140,192,False,Normal,148,No,0.4,Flat,0,Fixed Defect,No Heart Disease
+56.0,Female,Atypical Angina,140,294,False,Abnormal,153,No,1.3,Flat,0,Normal,No Heart Disease
+56.0,Male,Non-anginal Pain,130,256,True,Abnormal,142,Yes,0.6,Flat,1,Fixed Defect,Heart Disease
+44.0,Male,Atypical Angina,120,263,False,Normal,173,No,0.0,Upsloping,0,Reversable Defect,No Heart Disease
+52.0,Male,Non-anginal Pain,172,199,True,Normal,162,No,0.5,Upsloping,0,Reversable Defect,No Heart Disease
+57.0,Male,Non-anginal Pain,150,168,False,Normal,174,No,1.6,Upsloping,0,Normal,No Heart Disease
+48.0,Male,Atypical Angina,110,229,False,Normal,168,No,1.0,Downsloping,0,Reversable Defect,Heart Disease
+54.0,Male,Asymptomatic,140,239,False,Normal,160,No,1.2,Upsloping,0,Normal,No Heart Disease
+48.0,Female,Non-anginal Pain,130,275,False,Normal,139,No,0.2,Upsloping,0,Normal,No Heart Disease
+49.0,Male,Atypical Angina,130,266,False,Normal,171,No,0.6,Upsloping,0,Normal,No Heart Disease
+64.0,Male,Typical Angina,110,211,False,Abnormal,144,Yes,1.8,Flat,0,Normal,No Heart Disease
+58.0,Female,Typical Angina,150,283,True,Abnormal,162,No,1.0,Upsloping,0,Normal,No Heart Disease
+58.0,Male,Atypical Angina,120,284,False,Abnormal,160,No,1.8,Flat,0,Normal,Heart Disease
+58.0,Male,Non-anginal Pain,132,224,False,Abnormal,173,No,3.2,Upsloping,2,Reversable Defect,Heart Disease
+60.0,Male,Asymptomatic,130,206,False,Abnormal,132,Yes,2.4,Flat,2,Reversable Defect,Heart Disease
+50.0,Female,Non-anginal Pain,120,219,False,Normal,158,No,1.6,Flat,0,Normal,No Heart Disease
+58.0,Female,Non-anginal Pain,120,340,False,Normal,172,No,0.0,Upsloping,0,Normal,No Heart Disease
+66.0,Female,Typical Angina,150,226,False,Normal,114,No,2.6,Downsloping,0,Normal,No Heart Disease
+43.0,Male,Asymptomatic,150,247,False,Normal,171,No,1.5,Upsloping,0,Normal,No Heart Disease
+40.0,Male,Asymptomatic,110,167,False,Abnormal,114,Yes,2.0,Flat,0,Reversable Defect,Heart Disease
+69.0,Female,Typical Angina,140,239,False,Normal,151,No,1.8,Upsloping,2,Normal,No Heart Disease
+60.0,Male,Asymptomatic,117,230,True,Normal,160,Yes,1.4,Upsloping,2,Reversable Defect,Heart Disease
+64.0,Male,Non-anginal Pain,140,335,False,Normal,158,No,0.0,Upsloping,0,Normal,Heart Disease
+59.0,Male,Asymptomatic,135,234,False,Normal,161,No,0.5,Flat,0,Reversable Defect,No Heart Disease
+44.0,Male,Non-anginal Pain,130,233,False,Normal,179,Yes,0.4,Upsloping,0,Normal,No Heart Disease
+42.0,Male,Asymptomatic,140,226,False,Normal,178,No,0.0,Upsloping,0,Normal,No Heart Disease
+43.0,Male,Asymptomatic,120,177,False,Abnormal,120,Yes,2.5,Flat,0,Reversable Defect,Heart Disease
+57.0,Male,Asymptomatic,150,276,False,Abnormal,112,Yes,0.6,Flat,1,Fixed Defect,Heart Disease
+55.0,Male,Asymptomatic,132,353,False,Normal,132,Yes,1.2,Flat,1,Reversable Defect,Heart Disease
+61.0,Male,Non-anginal Pain,150,243,True,Normal,137,Yes,1.0,Flat,0,Normal,No Heart Disease
+65.0,Female,Asymptomatic,150,225,False,Abnormal,114,No,1.0,Flat,3,Reversable Defect,Heart Disease
+40.0,Male,Typical Angina,140,199,False,Normal,178,Yes,1.4,Upsloping,0,Reversable Defect,No Heart Disease
+71.0,Female,Atypical Angina,160,302,False,Normal,162,No,0.4,Upsloping,2,Normal,No Heart Disease
+59.0,Male,Non-anginal Pain,150,212,True,Normal,157,No,1.6,Upsloping,0,Normal,No Heart Disease
+61.0,Female,Asymptomatic,130,330,False,Abnormal,169,No,0.0,Upsloping,0,Normal,Heart Disease
+58.0,Male,Non-anginal Pain,112,230,False,Abnormal,165,No,2.5,Flat,1,Reversable Defect,Heart Disease
+51.0,Male,Non-anginal Pain,110,175,False,Normal,123,No,0.6,Upsloping,0,Normal,No Heart Disease
+50.0,Male,Asymptomatic,150,243,False,Abnormal,128,No,2.6,Flat,0,Reversable Defect,Heart Disease
+65.0,Female,Non-anginal Pain,140,417,True,Abnormal,157,No,0.8,Upsloping,1,Normal,No Heart Disease
+53.0,Male,Non-anginal Pain,130,197,True,Abnormal,152,No,1.2,Downsloping,0,Normal,No Heart Disease
+41.0,Female,Atypical Angina,105,198,False,Normal,168,No,0.0,Upsloping,1,Normal,No Heart Disease
+65.0,Male,Asymptomatic,120,177,False,Normal,140,No,0.4,Upsloping,0,Reversable Defect,No Heart Disease
+44.0,Male,Asymptomatic,112,290,False,Abnormal,153,No,0.0,Upsloping,1,Normal,Heart Disease
+44.0,Male,Atypical Angina,130,219,False,Abnormal,188,No,0.0,Upsloping,0,Normal,No Heart Disease
+60.0,Male,Asymptomatic,130,253,False,Normal,144,Yes,1.4,Upsloping,1,Reversable Defect,Heart Disease
+54.0,Male,Asymptomatic,124,266,False,Abnormal,109,Yes,2.2,Flat,1,Reversable Defect,Heart Disease
+50.0,Male,Non-anginal Pain,140,233,False,Normal,163,No,0.6,Flat,1,Reversable Defect,Heart Disease
+41.0,Male,Asymptomatic,110,172,False,Abnormal,158,No,0.0,Upsloping,0,Reversable Defect,Heart Disease
+54.0,Male,Non-anginal Pain,125,273,False,Abnormal,152,No,0.5,Downsloping,1,Normal,No Heart Disease
+51.0,Male,Typical Angina,125,213,False,Abnormal,125,Yes,1.4,Upsloping,1,Normal,No Heart Disease
+51.0,Female,Asymptomatic,130,305,False,Normal,142,Yes,1.2,Flat,0,Reversable Defect,Heart Disease
+46.0,Female,Non-anginal Pain,142,177,False,Abnormal,160,Yes,1.4,Downsloping,0,Normal,No Heart Disease
+58.0,Male,Asymptomatic,128,216,False,Abnormal,131,Yes,2.2,Flat,3,Reversable Defect,Heart Disease
+54.0,Female,Non-anginal Pain,135,304,True,Normal,170,No,0.0,Upsloping,0,Normal,No Heart Disease
+54.0,Male,Asymptomatic,120,188,False,Normal,113,No,1.4,Flat,1,Reversable Defect,Heart Disease
+60.0,Male,Asymptomatic,145,282,False,Abnormal,142,Yes,2.8,Flat,2,Reversable Defect,Heart Disease
+60.0,Male,Non-anginal Pain,140,185,False,Abnormal,155,No,3.0,Flat,0,Normal,Heart Disease
+54.0,Male,Non-anginal Pain,150,232,False,Abnormal,165,No,1.6,Upsloping,0,Reversable Defect,No Heart Disease
+59.0,Male,Asymptomatic,170,326,False,Abnormal,140,Yes,3.4,Downsloping,0,Reversable Defect,Heart Disease
+46.0,Male,Non-anginal Pain,150,231,False,Normal,147,No,3.6,Flat,0,Normal,Heart Disease
+65.0,Female,Non-anginal Pain,155,269,False,Normal,148,No,0.8,Upsloping,0,Normal,No Heart Disease
+67.0,Male,Asymptomatic,125,254,True,Normal,163,No,0.2,Flat,2,Reversable Defect,Heart Disease
+62.0,Male,Asymptomatic,120,267,False,Normal,99,Yes,1.8,Flat,2,Reversable Defect,Heart Disease
+65.0,Male,Asymptomatic,110,248,False,Abnormal,158,No,0.6,Upsloping,2,Fixed Defect,Heart Disease
+44.0,Male,Asymptomatic,110,197,False,Abnormal,177,No,0.0,Upsloping,1,Normal,Heart Disease
+65.0,Female,Non-anginal Pain,160,360,False,Abnormal,151,No,0.8,Upsloping,0,Normal,No Heart Disease
+60.0,Male,Asymptomatic,125,258,False,Abnormal,141,Yes,2.8,Flat,1,Reversable Defect,Heart Disease
+51.0,Female,Non-anginal Pain,140,308,False,Abnormal,142,No,1.5,Upsloping,1,Normal,No Heart Disease
+48.0,Male,Atypical Angina,130,245,False,Abnormal,180,No,0.2,Flat,0,Normal,No Heart Disease
+58.0,Male,Asymptomatic,150,270,False,Abnormal,111,Yes,0.8,Upsloping,0,Reversable Defect,Heart Disease
+45.0,Male,Asymptomatic,104,208,False,Abnormal,148,Yes,3.0,Flat,0,Normal,No Heart Disease
+53.0,Female,Asymptomatic,130,264,False,Abnormal,143,No,0.4,Flat,0,Normal,No Heart Disease
+39.0,Male,Non-anginal Pain,140,321,False,Abnormal,182,No,0.0,Upsloping,0,Normal,No Heart Disease
+68.0,Male,Non-anginal Pain,180,274,True,Abnormal,150,Yes,1.6,Flat,0,Reversable Defect,Heart Disease
+52.0,Male,Atypical Angina,120,325,False,Normal,172,No,0.2,Upsloping,0,Normal,No Heart Disease
+44.0,Male,Non-anginal Pain,140,235,False,Abnormal,180,No,0.0,Upsloping,0,Normal,No Heart Disease
+47.0,Male,Non-anginal Pain,138,257,False,Abnormal,156,No,0.0,Upsloping,0,Normal,No Heart Disease
+53.0,Female,Non-anginal Pain,128,216,False,Abnormal,115,No,0.0,Upsloping,0,Normal,No Heart Disease
+53.0,Female,Asymptomatic,138,234,False,Abnormal,160,No,0.0,Upsloping,0,Normal,No Heart Disease
+51.0,Female,Non-anginal Pain,130,256,False,Abnormal,149,No,0.5,Upsloping,0,Normal,No Heart Disease
+66.0,Male,Asymptomatic,120,302,False,Abnormal,151,No,0.4,Flat,0,Normal,No Heart Disease
+62.0,Female,Asymptomatic,160,164,False,Abnormal,145,No,6.2,Downsloping,3,Reversable Defect,Heart Disease
+62.0,Male,Non-anginal Pain,130,231,False,Normal,146,No,1.8,Flat,3,Reversable Defect,No Heart Disease
+44.0,Female,Non-anginal Pain,108,141,False,Normal,175,No,0.6,Flat,0,Normal,No Heart Disease
+63.0,Female,Non-anginal Pain,135,252,False,Abnormal,172,No,0.0,Upsloping,0,Normal,No Heart Disease
+52.0,Male,Asymptomatic,128,255,False,Normal,161,Yes,0.0,Upsloping,1,Reversable Defect,Heart Disease
+59.0,Male,Asymptomatic,110,239,False,Abnormal,142,Yes,1.2,Flat,1,Reversable Defect,Heart Disease
+60.0,Female,Asymptomatic,150,258,False,Abnormal,157,No,2.6,Flat,2,Reversable Defect,Heart Disease
+52.0,Male,Atypical Angina,134,201,False,Normal,158,No,0.8,Upsloping,1,Normal,No Heart Disease
+48.0,Male,Asymptomatic,122,222,False,Abnormal,186,No,0.0,Upsloping,0,Normal,No Heart Disease
+45.0,Male,Asymptomatic,115,260,False,Abnormal,185,No,0.0,Upsloping,0,Normal,No Heart Disease
+34.0,Male,Typical Angina,118,182,False,Abnormal,174,No,0.0,Upsloping,0,Normal,No Heart Disease
+57.0,Female,Asymptomatic,128,303,False,Abnormal,159,No,0.0,Upsloping,1,Normal,No Heart Disease
+71.0,Female,Non-anginal Pain,110,265,True,Abnormal,130,No,0.0,Upsloping,1,Normal,No Heart Disease
+49.0,Male,Non-anginal Pain,120,188,False,Normal,139,No,2.0,Flat,3,Reversable Defect,Heart Disease
+54.0,Male,Atypical Angina,108,309,False,Normal,156,No,0.0,Upsloping,0,Reversable Defect,No Heart Disease
+59.0,Male,Asymptomatic,140,177,False,Normal,162,Yes,0.0,Upsloping,1,Reversable Defect,Heart Disease
+57.0,Male,Non-anginal Pain,128,229,False,Abnormal,150,No,0.4,Flat,1,Reversable Defect,Heart Disease
+61.0,Male,Asymptomatic,120,260,False,Normal,140,Yes,3.6,Flat,1,Reversable Defect,Heart Disease
+39.0,Male,Asymptomatic,118,219,False,Normal,140,No,1.2,Flat,0,Reversable Defect,Heart Disease
+61.0,Female,Asymptomatic,145,307,False,Abnormal,146,Yes,1.0,Flat,0,Reversable Defect,Heart Disease
+56.0,Male,Asymptomatic,125,249,True,Abnormal,144,Yes,1.2,Flat,1,Normal,Heart Disease
+52.0,Male,Typical Angina,118,186,False,Abnormal,190,No,0.0,Flat,0,Fixed Defect,No Heart Disease
+43.0,Female,Asymptomatic,132,341,True,Abnormal,136,Yes,3.0,Flat,0,Reversable Defect,Heart Disease
+62.0,Female,Non-anginal Pain,130,263,False,Normal,97,No,1.2,Flat,1,Reversable Defect,Heart Disease
+41.0,Male,Atypical Angina,135,203,False,Normal,132,No,0.0,Flat,0,Fixed Defect,No Heart Disease
+58.0,Male,Non-anginal Pain,140,211,True,Abnormal,165,No,0.0,Upsloping,0,Normal,No Heart Disease
+35.0,Female,Asymptomatic,138,183,False,Normal,182,No,1.4,Upsloping,0,Normal,No Heart Disease
+63.0,Male,Asymptomatic,130,330,True,Abnormal,132,Yes,1.8,Upsloping,3,Reversable Defect,Heart Disease
+65.0,Male,Asymptomatic,135,254,False,Abnormal,127,No,2.8,Flat,1,Reversable Defect,Heart Disease
+48.0,Male,Asymptomatic,130,256,True,Abnormal,150,Yes,0.0,Upsloping,2,Reversable Defect,Heart Disease
+63.0,Female,Asymptomatic,150,407,False,Abnormal,154,No,4.0,Flat,3,Reversable Defect,Heart Disease
+51.0,Male,Non-anginal Pain,100,222,False,Normal,143,Yes,1.2,Flat,0,Normal,No Heart Disease
+55.0,Male,Asymptomatic,140,217,False,Normal,111,Yes,5.6,Downsloping,0,Reversable Defect,Heart Disease
+65.0,Male,Typical Angina,138,282,True,Abnormal,174,No,1.4,Flat,1,Normal,Heart Disease
+45.0,Female,Atypical Angina,130,234,False,Abnormal,175,No,0.6,Flat,0,Normal,No Heart Disease
+56.0,Female,Asymptomatic,200,288,True,Abnormal,133,Yes,4.0,Downsloping,2,Reversable Defect,Heart Disease
+54.0,Male,Asymptomatic,110,239,False,Normal,126,Yes,2.8,Flat,1,Reversable Defect,Heart Disease
+44.0,Male,Atypical Angina,120,220,False,Normal,170,No,0.0,Upsloping,0,Normal,No Heart Disease
+62.0,Female,Asymptomatic,124,209,False,Normal,163,No,0.0,Upsloping,0,Normal,No Heart Disease
+54.0,Male,Non-anginal Pain,120,258,False,Abnormal,147,No,0.4,Flat,0,Reversable Defect,No Heart Disease
+51.0,Male,Non-anginal Pain,94,227,False,Normal,154,Yes,0.0,Upsloping,1,Reversable Defect,No Heart Disease
+29.0,Male,Atypical Angina,130,204,False,Abnormal,202,No,0.0,Upsloping,0,Normal,No Heart Disease
+51.0,Male,Asymptomatic,140,261,False,Abnormal,186,Yes,0.0,Upsloping,0,Normal,No Heart Disease
+43.0,Female,Non-anginal Pain,122,213,False,Normal,165,No,0.2,Flat,0,Normal,No Heart Disease
+55.0,Female,Atypical Angina,135,250,False,Abnormal,161,No,1.4,Flat,0,Normal,No Heart Disease
+70.0,Male,Asymptomatic,145,174,False,Normal,125,Yes,2.6,Downsloping,0,Reversable Defect,Heart Disease
+62.0,Male,Atypical Angina,120,281,False,Abnormal,103,No,1.4,Flat,1,Reversable Defect,Heart Disease
+35.0,Male,Asymptomatic,120,198,False,Normal,130,Yes,1.6,Flat,0,Reversable Defect,Heart Disease
+51.0,Male,Non-anginal Pain,125,245,True,Abnormal,166,No,2.4,Flat,0,Normal,No Heart Disease
+59.0,Male,Atypical Angina,140,221,False,Normal,164,Yes,0.0,Upsloping,0,Normal,No Heart Disease
+59.0,Male,Typical Angina,170,288,False,Abnormal,159,No,0.2,Flat,0,Reversable Defect,Heart Disease
+52.0,Male,Atypical Angina,128,205,True,Normal,184,No,0.0,Upsloping,0,Normal,No Heart Disease
+64.0,Male,Non-anginal Pain,125,309,False,Normal,131,Yes,1.8,Flat,0,Reversable Defect,Heart Disease
+58.0,Male,Non-anginal Pain,105,240,False,Abnormal,154,Yes,0.6,Flat,0,Reversable Defect,No Heart Disease
+47.0,Male,Non-anginal Pain,108,243,False,Normal,152,No,0.0,Upsloping,0,Normal,Heart Disease
+57.0,Male,Asymptomatic,165,289,True,Abnormal,124,No,1.0,Flat,3,Reversable Defect,Heart Disease
+41.0,Male,Non-anginal Pain,112,250,False,Normal,179,No,0.0,Upsloping,0,Normal,No Heart Disease
+45.0,Male,Atypical Angina,128,308,False,Abnormal,170,No,0.0,Upsloping,0,Normal,No Heart Disease
+60.0,Female,Non-anginal Pain,102,318,False,Normal,160,No,0.0,Upsloping,1,Normal,No Heart Disease
+52.0,Male,Typical Angina,152,298,True,Normal,178,No,1.2,Flat,0,Reversable Defect,No Heart Disease
+42.0,Female,Asymptomatic,102,265,False,Abnormal,122,No,0.6,Flat,0,Normal,No Heart Disease
+67.0,Female,Non-anginal Pain,115,564,False,Abnormal,160,No,1.6,Flat,0,Reversable Defect,No Heart Disease
+55.0,Male,Asymptomatic,160,289,False,Abnormal,145,Yes,0.8,Flat,1,Reversable Defect,Heart Disease
+64.0,Male,Asymptomatic,120,246,False,Abnormal,96,Yes,2.2,Downsloping,1,Normal,Heart Disease
+70.0,Male,Asymptomatic,130,322,False,Abnormal,109,No,2.4,Flat,3,Normal,Heart Disease
+51.0,Male,Asymptomatic,140,299,False,Normal,173,Yes,1.6,Upsloping,0,Reversable Defect,Heart Disease
+58.0,Male,Asymptomatic,125,300,False,Abnormal,171,No,0.0,Upsloping,2,Reversable Defect,Heart Disease
+60.0,Male,Asymptomatic,140,293,False,Abnormal,170,No,1.2,Flat,2,Reversable Defect,Heart Disease
+68.0,Male,Non-anginal Pain,118,277,False,Normal,151,No,1.0,Upsloping,1,Reversable Defect,No Heart Disease
+46.0,Male,Atypical Angina,101,197,True,Normal,156,No,0.0,Upsloping,0,Reversable Defect,No Heart Disease
+77.0,Male,Asymptomatic,125,304,False,Abnormal,162,Yes,0.0,Upsloping,3,Normal,Heart Disease
+54.0,Female,Non-anginal Pain,110,214,False,Normal,158,No,1.6,Flat,0,Normal,No Heart Disease
+58.0,Female,Asymptomatic,100,248,False,Abnormal,122,No,1.0,Flat,0,Normal,No Heart Disease
+48.0,Male,Non-anginal Pain,124,255,True,Normal,175,No,0.0,Upsloping,2,Normal,No Heart Disease
+57.0,Male,Asymptomatic,132,207,False,Normal,168,Yes,0.0,Upsloping,0,Reversable Defect,No Heart Disease
+52.0,Male,Non-anginal Pain,138,223,False,Normal,169,No,0.0,Upsloping,0,Normal,No Heart Disease
+54.0,Female,Atypical Angina,132,288,True,Abnormal,159,Yes,0.0,Upsloping,1,Normal,No Heart Disease
+35.0,Male,Asymptomatic,126,282,False,Abnormal,156,Yes,0.0,Upsloping,0,Reversable Defect,Heart Disease
+45.0,Female,Atypical Angina,112,160,False,Normal,138,No,0.0,Flat,0,Normal,No Heart Disease
+70.0,Male,Non-anginal Pain,160,269,False,Normal,112,Yes,2.9,Flat,1,Reversable Defect,Heart Disease
+53.0,Male,Asymptomatic,142,226,False,Abnormal,111,Yes,0.0,Upsloping,0,Reversable Defect,No Heart Disease
+59.0,Female,Asymptomatic,174,249,False,Normal,143,Yes,0.0,Flat,0,Normal,Heart Disease
+62.0,Female,Asymptomatic,140,394,False,Abnormal,157,No,1.2,Flat,0,Normal,No Heart Disease
+64.0,Male,Asymptomatic,145,212,False,Abnormal,132,No,2.0,Flat,2,Fixed Defect,Heart Disease
+57.0,Male,Asymptomatic,152,274,False,Normal,88,Yes,1.2,Flat,1,Reversable Defect,Heart Disease
+52.0,Male,Asymptomatic,108,233,True,Normal,147,No,0.1,Upsloping,3,Reversable Defect,No Heart Disease
+56.0,Male,Asymptomatic,132,184,False,Abnormal,105,Yes,2.1,Flat,1,Fixed Defect,Heart Disease
+43.0,Male,Non-anginal Pain,130,315,False,Normal,162,No,1.9,Upsloping,1,Normal,No Heart Disease
+53.0,Male,Non-anginal Pain,130,246,True,Abnormal,173,No,0.0,Upsloping,3,Normal,No Heart Disease
+48.0,Male,Asymptomatic,124,274,False,Abnormal,166,No,0.5,Flat,0,Reversable Defect,Heart Disease
+56.0,Female,Asymptomatic,134,409,False,Abnormal,150,Yes,1.9,Flat,2,Reversable Defect,Heart Disease
+42.0,Male,Typical Angina,148,244,False,Abnormal,178,No,0.8,Upsloping,2,Normal,No Heart Disease
+59.0,Male,Typical Angina,178,270,False,Abnormal,145,No,4.2,Downsloping,0,Reversable Defect,No Heart Disease
+60.0,Female,Asymptomatic,158,305,False,Abnormal,161,No,0.0,Upsloping,0,Normal,Heart Disease
+63.0,Female,Atypical Angina,140,195,False,Normal,179,No,0.0,Upsloping,2,Normal,No Heart Disease
+42.0,Male,Non-anginal Pain,120,240,True,Normal,194,No,0.8,Downsloping,0,Reversable Defect,No Heart Disease
+66.0,Male,Atypical Angina,160,246,False,Normal,120,Yes,0.0,Flat,3,Fixed Defect,Heart Disease
+54.0,Male,Atypical Angina,192,283,False,Abnormal,195,No,0.0,Upsloping,1,Reversable Defect,Heart Disease
+69.0,Male,Non-anginal Pain,140,254,False,Abnormal,146,No,2.0,Flat,3,Reversable Defect,Heart Disease
+50.0,Male,Non-anginal Pain,129,196,False,Normal,163,No,0.0,Upsloping,0,Normal,No Heart Disease
+51.0,Male,Asymptomatic,140,298,False,Normal,122,Yes,4.2,Flat,3,Reversable Defect,Heart Disease
+43.0,Male,Asymptomatic,132,247,True,Abnormal,143,Yes,0.1,Flat,0,Reversable Defect,Heart Disease
+62.0,Female,Asymptomatic,138,294,True,Normal,106,No,1.9,Flat,3,Normal,Heart Disease
+68.0,Female,Non-anginal Pain,120,211,False,Abnormal,115,No,1.5,Flat,0,Normal,No Heart Disease
+67.0,Male,Asymptomatic,100,299,False,Abnormal,125,Yes,0.9,Flat,2,Normal,Heart Disease
+69.0,Male,Typical Angina,160,234,True,Abnormal,131,No,0.1,Flat,1,Normal,No Heart Disease
+45.0,Female,Asymptomatic,138,236,False,Abnormal,152,Yes,0.2,Flat,0,Normal,No Heart Disease
+50.0,Female,Atypical Angina,120,244,False,Normal,162,No,1.1,Upsloping,0,Normal,No Heart Disease
+59.0,Male,Typical Angina,160,273,False,Abnormal,125,No,0.0,Upsloping,0,Normal,Heart Disease
+50.0,Female,Asymptomatic,110,254,False,Abnormal,159,No,0.0,Upsloping,0,Normal,No Heart Disease
+64.0,Female,Asymptomatic,180,325,False,Normal,154,Yes,0.0,Upsloping,0,Normal,No Heart Disease
+57.0,Male,Non-anginal Pain,150,126,True,Normal,173,No,0.2,Upsloping,1,Reversable Defect,No Heart Disease
+64.0,Female,Non-anginal Pain,140,313,False,Normal,133,No,0.2,Upsloping,0,Reversable Defect,No Heart Disease
+43.0,Male,Asymptomatic,110,211,False,Normal,161,No,0.0,Upsloping,0,Reversable Defect,No Heart Disease
+45.0,Male,Asymptomatic,142,309,False,Abnormal,147,Yes,0.0,Flat,3,Reversable Defect,Heart Disease
+58.0,Male,Asymptomatic,128,259,False,Abnormal,130,Yes,3.0,Flat,2,Reversable Defect,Heart Disease
+50.0,Male,Asymptomatic,144,200,False,Abnormal,126,Yes,0.9,Flat,0,Reversable Defect,Heart Disease
+55.0,Male,Atypical Angina,130,262,False,Normal,155,No,0.0,Upsloping,0,Normal,No Heart Disease
+62.0,Female,Asymptomatic,150,244,False,Normal,154,Yes,1.4,Flat,0,Normal,Heart Disease
+37.0,Female,Non-anginal Pain,120,215,False,Normal,170,No,0.0,Upsloping,0,Normal,No Heart Disease
+38.0,Male,Typical Angina,120,231,False,Normal,182,Yes,3.8,Flat,0,Reversable Defect,Heart Disease
+41.0,Male,Non-anginal Pain,130,214,False,Abnormal,168,No,2.0,Flat,0,Normal,No Heart Disease
+66.0,Female,Asymptomatic,178,228,True,Normal,165,Yes,1.0,Flat,2,Reversable Defect,Heart Disease
+52.0,Male,Asymptomatic,112,230,False,Normal,160,No,0.0,Upsloping,1,Normal,Heart Disease
+56.0,Male,Typical Angina,120,193,False,Abnormal,162,No,1.9,Flat,0,Reversable Defect,No Heart Disease
+46.0,Female,Atypical Angina,105,204,False,Normal,172,No,0.0,Upsloping,0,Normal,No Heart Disease
+46.0,Female,Asymptomatic,138,243,False,Abnormal,152,Yes,0.0,Flat,0,Normal,No Heart Disease
+64.0,Female,Asymptomatic,130,303,False,Normal,122,No,2.0,Flat,2,Normal,No Heart Disease
+59.0,Male,Asymptomatic,138,271,False,Abnormal,182,No,0.0,Upsloping,0,Normal,No Heart Disease
+41.0,Female,Non-anginal Pain,112,268,False,Abnormal,172,Yes,0.0,Upsloping,0,Normal,No Heart Disease
+54.0,Female,Non-anginal Pain,108,267,False,Abnormal,167,No,0.0,Upsloping,0,Normal,No Heart Disease
+39.0,Female,Non-anginal Pain,94,199,False,Normal,179,No,0.0,Upsloping,0,Normal,No Heart Disease
+53.0,Male,Asymptomatic,123,282,False,Normal,95,Yes,2.0,Flat,2,Reversable Defect,Heart Disease
+63.0,Female,Asymptomatic,108,269,False,Normal,169,Yes,1.8,Flat,2,Normal,Heart Disease
+34.0,Female,Atypical Angina,118,210,False,Normal,192,No,0.7,Upsloping,0,Normal,No Heart Disease
+47.0,Male,Asymptomatic,112,204,False,Normal,143,No,0.1,Upsloping,0,Normal,No Heart Disease
+67.0,Female,Non-anginal Pain,152,277,False,Normal,172,No,0.0,Upsloping,1,Normal,No Heart Disease
+54.0,Male,Asymptomatic,110,206,False,Abnormal,108,Yes,0.0,Flat,1,Normal,Heart Disease
+66.0,Male,Asymptomatic,112,212,False,Abnormal,132,Yes,0.1,Upsloping,1,Normal,Heart Disease
+52.0,Female,Non-anginal Pain,136,196,False,Abnormal,169,No,0.1,Flat,0,Normal,No Heart Disease
+55.0,Female,Asymptomatic,180,327,False,Abnormal,117,Yes,3.4,Flat,0,Normal,Heart Disease
+49.0,Male,Non-anginal Pain,118,149,False,Abnormal,126,No,0.8,Upsloping,3,Normal,Heart Disease
+74.0,Female,Atypical Angina,120,269,False,Abnormal,121,Yes,0.2,Upsloping,1,Normal,No Heart Disease
+54.0,Female,Non-anginal Pain,160,201,False,Normal,163,No,0.0,Upsloping,1,Normal,No Heart Disease
+54.0,Male,Asymptomatic,122,286,False,Abnormal,116,Yes,3.2,Flat,2,Normal,Heart Disease
+56.0,Male,Asymptomatic,130,283,True,Abnormal,103,Yes,1.6,Downsloping,0,Reversable Defect,Heart Disease
+46.0,Male,Asymptomatic,120,249,False,Abnormal,144,No,0.8,Upsloping,0,Reversable Defect,Heart Disease
+49.0,Female,Atypical Angina,134,271,False,Normal,162,No,0.0,Flat,0,Normal,No Heart Disease
+42.0,Male,Atypical Angina,120,295,False,Normal,162,No,0.0,Upsloping,0,Normal,No Heart Disease
+41.0,Male,Atypical Angina,110,235,False,Normal,153,No,0.0,Upsloping,0,Normal,No Heart Disease
+41.0,Female,Atypical Angina,126,306,False,Normal,163,No,0.0,Upsloping,0,Normal,No Heart Disease
+49.0,Female,Asymptomatic,130,269,False,Normal,163,No,0.0,Upsloping,0,Normal,No Heart Disease
+61.0,Male,Typical Angina,134,234,False,Normal,145,No,2.6,Flat,2,Normal,Heart Disease
+60.0,Female,Non-anginal Pain,120,178,True,Normal,96,No,0.0,Upsloping,0,Normal,No Heart Disease
+67.0,Male,Asymptomatic,120,237,False,Normal,71,No,1.0,Flat,0,Normal,Heart Disease
+58.0,Male,Asymptomatic,100,234,False,Normal,156,No,0.1,Upsloping,1,Reversable Defect,Heart Disease
+47.0,Male,Asymptomatic,110,275,False,Abnormal,118,Yes,1.0,Flat,1,Normal,Heart Disease
+52.0,Male,Asymptomatic,125,212,False,Normal,168,No,1.0,Upsloping,2,Reversable Defect,Heart Disease
+62.0,Male,Atypical Angina,128,208,True,Abnormal,140,No,0.0,Upsloping,0,Normal,No Heart Disease
+57.0,Male,Asymptomatic,110,201,False,Normal,126,Yes,1.5,Flat,0,Fixed Defect,No Heart Disease
+58.0,Male,Asymptomatic,146,218,False,Normal,105,No,2.0,Flat,1,Reversable Defect,Heart Disease
+64.0,Male,Asymptomatic,128,263,False,Normal,105,Yes,0.2,Flat,1,Reversable Defect,No Heart Disease
+51.0,Female,Non-anginal Pain,120,295,False,Abnormal,157,No,0.6,Upsloping,0,Normal,No Heart Disease
+43.0,Male,Asymptomatic,115,303,False,Normal,181,No,1.2,Flat,0,Normal,No Heart Disease
+42.0,Female,Non-anginal Pain,120,209,False,Normal,173,No,0.0,Flat,0,Normal,No Heart Disease
+67.0,Female,Asymptomatic,106,223,False,Normal,142,No,0.3,Upsloping,2,Normal,No Heart Disease
+76.0,Female,Non-anginal Pain,140,197,False,Abnormal,116,No,1.1,Flat,0,Normal,No Heart Disease
+70.0,Male,Atypical Angina,156,245,False,Abnormal,143,No,0.0,Upsloping,0,Normal,No Heart Disease
+57.0,Male,Atypical Angina,124,261,False,Normal,141,No,0.3,Upsloping,0,Reversable Defect,Heart Disease
+44.0,Female,Non-anginal Pain,118,242,False,Normal,149,No,0.3,Flat,1,Normal,No Heart Disease
+58.0,Female,Atypical Angina,136,319,True,Abnormal,152,No,0.0,Upsloping,2,Normal,Heart Disease
+60.0,Female,Typical Angina,150,240,False,Normal,171,No,0.9,Upsloping,0,Normal,No Heart Disease
+44.0,Male,Non-anginal Pain,120,226,False,Normal,169,No,0.0,Upsloping,0,Normal,No Heart Disease
+61.0,Male,Asymptomatic,138,166,False,Abnormal,125,Yes,3.6,Flat,1,Normal,Heart Disease
+42.0,Male,Asymptomatic,136,315,False,Normal,125,Yes,1.8,Flat,0,Fixed Defect,Heart Disease
+52.0,Male,Asymptomatic,128,204,True,Normal,156,Yes,1.0,Flat,0,Normal,Heart Disease
+59.0,Male,Non-anginal Pain,126,218,True,Normal,134,No,2.2,Flat,1,Fixed Defect,Heart Disease
+40.0,Male,Asymptomatic,152,223,False,Normal,181,No,0.0,Upsloping,0,Reversable Defect,Heart Disease
+42.0,Male,Non-anginal Pain,130,180,False,Normal,150,No,0.0,Upsloping,0,Normal,No Heart Disease
+61.0,Male,Asymptomatic,140,207,False,Abnormal,138,Yes,1.9,Upsloping,1,Reversable Defect,Heart Disease
+66.0,Male,Asymptomatic,160,228,False,Abnormal,138,No,2.3,Upsloping,0,Fixed Defect,No Heart Disease
+46.0,Male,Asymptomatic,140,311,False,Normal,120,Yes,1.8,Flat,2,Reversable Defect,Heart Disease
+71.0,Female,Asymptomatic,112,149,False,Normal,125,No,1.6,Flat,0,Normal,No Heart Disease
+59.0,Male,Typical Angina,134,204,False,Normal,162,No,0.8,Upsloping,2,Normal,Heart Disease
+64.0,Male,Typical Angina,170,227,False,Abnormal,155,No,0.6,Flat,0,Reversable Defect,No Heart Disease
+66.0,Female,Non-anginal Pain,146,278,False,Abnormal,152,No,0.0,Flat,1,Normal,No Heart Disease
+39.0,Female,Non-anginal Pain,138,220,False,Normal,152,No,0.0,Flat,0,Normal,No Heart Disease
+57.0,Male,Atypical Angina,154,232,False,Abnormal,164,No,0.0,Upsloping,1,Normal,Heart Disease
+58.0,Female,Asymptomatic,130,197,False,Normal,131,No,0.6,Flat,0,Normal,No Heart Disease
+57.0,Male,Asymptomatic,110,335,False,Normal,143,Yes,3.0,Flat,1,Reversable Defect,Heart Disease
+47.0,Male,Non-anginal Pain,130,253,False,Normal,179,No,0.0,Upsloping,0,Normal,No Heart Disease
+55.0,Female,Asymptomatic,128,205,False,Abnormal,130,Yes,2.0,Flat,1,Reversable Defect,Heart Disease
+35.0,Male,Atypical Angina,122,192,False,Normal,174,No,0.0,Upsloping,0,Normal,No Heart Disease
+61.0,Male,Asymptomatic,148,203,False,Normal,161,No,0.0,Upsloping,1,Reversable Defect,Heart Disease
+58.0,Male,Asymptomatic,114,318,False,Abnormal,140,No,4.4,Downsloping,3,Fixed Defect,Heart Disease
+58.0,Female,Asymptomatic,170,225,True,Abnormal,146,Yes,2.8,Flat,2,Fixed Defect,Heart Disease
+58.0,Male,Atypical Angina,125,220,False,Normal,144,No,0.4,Flat,0,Reversable Defect,No Heart Disease
+56.0,Male,Atypical Angina,130,221,False,Abnormal,163,No,0.0,Upsloping,0,Reversable Defect,No Heart Disease
+56.0,Male,Atypical Angina,120,240,False,Normal,169,No,0.0,Downsloping,0,Normal,No Heart Disease
+67.0,Male,Non-anginal Pain,152,212,False,Abnormal,150,No,0.8,Flat,0,Reversable Defect,Heart Disease
+55.0,Female,Atypical Angina,132,342,False,Normal,166,No,1.2,Upsloping,0,Normal,No Heart Disease
+44.0,Male,Asymptomatic,120,169,False,Normal,144,Yes,2.8,Downsloping,0,Fixed Defect,Heart Disease
+63.0,Male,Asymptomatic,140,187,False,Abnormal,144,Yes,4.0,Upsloping,2,Reversable Defect,Heart Disease
+63.0,Female,Asymptomatic,124,197,False,Normal,136,Yes,0.0,Flat,0,Normal,Heart Disease
+41.0,Male,Atypical Angina,120,157,False,Normal,182,No,0.0,Upsloping,0,Normal,No Heart Disease
+59.0,Male,Asymptomatic,164,176,True,Abnormal,90,No,1.0,Flat,2,Fixed Defect,Heart Disease
+57.0,Female,Asymptomatic,140,241,False,Normal,123,Yes,0.2,Flat,0,Reversable Defect,Heart Disease
+45.0,Male,Typical Angina,110,264,False,Normal,132,No,1.2,Flat,0,Reversable Defect,Heart Disease
+68.0,Male,Asymptomatic,144,193,True,Normal,141,No,3.4,Flat,2,Reversable Defect,Heart Disease
+57.0,Male,Asymptomatic,130,131,False,Normal,115,Yes,1.2,Flat,1,Reversable Defect,Heart Disease
+57.0,Female,Atypical Angina,130,236,False,Abnormal,174,No,0.0,Flat,1,Normal,Heart Disease
+38.0,Male,Non-anginal Pain,138,175,False,Normal,173,No,0.0,Upsloping,0,Normal,No Heart Disease
